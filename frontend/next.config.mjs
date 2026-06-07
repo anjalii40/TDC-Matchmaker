@@ -4,7 +4,7 @@ const nextConfig = {
     return [
       {
         source: '/api/:path*',
-        destination: 'http://localhost:5050/api/:path*',
+        destination: 'https://tdc-matchmaker-1-mkrj.onrender.com/api/:path*',
       },
     ];
   },
