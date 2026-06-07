@@ -1,4 +1,5 @@
 import { useState, useEffect, useMemo } from 'react';
+import { getApiUrl } from '../lib/utils/helpers';
 
 export default function useCustomers() {
   const [customers, setCustomers] = useState([]);
@@ -18,7 +19,7 @@ export default function useCustomers() {
   useEffect(() => {
     const fetchCustomers = async () => {
       try {
-        const res = await fetch('/api/customers');
+        const res = await fetch(getApiUrl('/api/customers'));
         if (res.ok) {
           const data = await res.json();
           setCustomers(data);

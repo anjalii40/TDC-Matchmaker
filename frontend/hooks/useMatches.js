@@ -1,4 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
+import { getApiUrl } from '../lib/utils/helpers';
 
 export default function useMatches(customerId, addToast) {
   const [customer, setCustomer] = useState(null);
@@ -10,7 +11,7 @@ export default function useMatches(customerId, addToast) {
   // Fetch customer metadata
   const fetchCustomer = useCallback(async () => {
     try {
-      const res = await fetch(`/api/customers`);
+      const res = await fetch(getApiUrl(`/api/customers`));
       if (res.ok) {
         const list = await res.json();
         const current = list.find(c => c.id === customerId);
@@ -39,7 +40,7 @@ export default function useMatches(customerId, addToast) {
   const fetchMatches = useCallback(async () => {
     setLoadingMatches(true);
     try {
-      const res = await fetch(`/api/customers/${customerId}/matches`);
+      const res = await fetch(getApiUrl(`/api/customers/${customerId}/matches`));
       if (res.ok) {
         const data = await res.json();
         setMatches(data.matches || []);
@@ -73,7 +74,7 @@ export default function useMatches(customerId, addToast) {
   // Handle toggling client paused search state
   const handleTogglePaused = async () => {
     try {
-      const res = await fetch(`/api/customers/${customerId}`, {
+      const res = await fetch(getApiUrl(`/api/customers/${customerId}`), {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ action: 'toggle_paused' })
@@ -94,7 +95,7 @@ export default function useMatches(customerId, addToast) {
   // Handle toggling client closed account state
   const handleToggleClosed = async () => {
     try {
-      const res = await fetch(`/api/customers/${customerId}`, {
+      const res = await fetch(getApiUrl(`/api/customers/${customerId}`), {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ action: 'toggle_closed' })
@@ -115,7 +116,7 @@ export default function useMatches(customerId, addToast) {
   // Handle updating a proposal's status
   const handleUpdateProposalStatus = async (profileId, newStatus) => {
     try {
-      const res = await fetch(`/api/customers/${customerId}`, {
+      const res = await fetch(getApiUrl(`/api/customers/${customerId}`), {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ 
@@ -143,7 +144,7 @@ export default function useMatches(customerId, addToast) {
   // Propose match (Send Email Modal action)
   const proposeMatch = async (matchToPropose) => {
     try {
-      const res = await fetch(`/api/customers/${customerId}`, {
+      const res = await fetch(getApiUrl(`/api/customers/${customerId}`), {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

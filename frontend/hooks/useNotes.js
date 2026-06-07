@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { getApiUrl } from '../lib/utils/helpers';
 
 export default function useNotes(customerId, addToast) {
   const [noteText, setNoteText] = useState('');
@@ -10,7 +11,7 @@ export default function useNotes(customerId, addToast) {
 
     setSubmittingNote(true);
     try {
-      const res = await fetch(`/api/customers/${customerId}`, {
+      const res = await fetch(getApiUrl(`/api/customers/${customerId}`), {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ note: noteText })

@@ -132,7 +132,7 @@ export default function DashboardPage() {
               value={filters.status}
               onChange={(e) => setFilters(prev => ({ ...prev, status: e.target.value }))}
             >
-              <option value="">All Statuses</option>
+              <option value="">Stages</option>
               <option value="New">New</option>
               <option value="Active">Active</option>
               <option value="Matched">Matched</option>

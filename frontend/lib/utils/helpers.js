@@ -57,3 +57,12 @@ export const getProfileCompleteness = (customer) => {
   
   return Math.round((filled / fields.length) * 100);
 };
+
+// Resolve API base URL dynamically based on environment hostname
+export const getApiUrl = (path) => {
+  const isProd = typeof window !== 'undefined' && window.location.hostname !== 'localhost';
+  const apiBase = isProd 
+    ? 'https://tdc-matchmaker-1-mkrj.onrender.com' 
+    : '';
+  return `${apiBase}${path}`;
+};
