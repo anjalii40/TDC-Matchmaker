@@ -1,42 +1,63 @@
-# TDC Matchmaker CRM Monorepo
+# 💖 TDC Matchmaker CRM Monorepo
 
-An elegant, internal matchmaking workspace and portfolio manager designed for **The Dating Club (TDC)** matchmakers. The system is architected as a decoupled monorepo composed of a Next.js 16 frontend, an Express.js backend, a static JSON database, and documentation.
+[![Next.js 16](https://img.shields.io/badge/Frontend-Next.js%2016-163B40?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![Express.js 5050](https://img.shields.io/badge/Backend-Express.js%205050-C36B7E?style=flat-square&logo=express)](https://expressjs.com/)
+[![Gemini 1.5](https://img.shields.io/badge/AI-Gemini%201.5%20Flash-C59B27?style=flat-square&logo=google-gemini)](https://deepmind.google/technologies/gemini/)
+[![Monorepo](https://img.shields.io/badge/Structure-Decoupled%20Monorepo-7a5c10?style=flat-square)](https://github.com/)
+
+An internal matchmaking workspace and customer book manager designed for **The Dating Club (TDC)** matchmaking team. This application enables matchmakers to manage client portfolios, track journey stages, run the matrimonial matching engine, and generate personalized Gemini AI match insights.
 
 ---
 
 ## 🚀 Quick Start & Installation
 
-### 1. Install Dependencies
-Clone the repository, navigate to the project root, and install dependencies for all workspace projects:
+### Step 1: Install Dependencies
+Install dependencies at the monorepo root and inside both the frontend/backend modules:
 ```bash
 npm install
 npm run install:all
 ```
 
-### 2. Configure Gemini API Key
-This application uses the Google Gemini API to generate personalized matchmaking summaries. To configure the API key, create a `.env.local` file in the root directory:
+### Step 2: Configure Gemini API Key
+Create a `.env.local` file in the root directory to store your API credentials:
 ```env
 GEMINI_API_KEY="your-google-gemini-api-key"
 ```
-*Note: If no API key is provided (or if set to `your_key_here`), the backend seamlessly falls back to a **smart local heuristic generator** that outputs realistic, multi-sentence partner compatibility narratives based on matching vectors.*
 
-### 3. Run the Development Environment
-Run both backend and frontend servers concurrently:
+> [!TIP]
+> **No API Key? No Problem!**
+> If `GEMINI_API_KEY` is not present, the system automatically falls back to a **smart local heuristic generator** that outputs realistic, multi-sentence partner compatibility narratives based on matching vectors.
+
+### Step 3: Run the Development Server
+Launch both development servers concurrently:
 ```bash
-# Start backend on port 5050 and frontend on port 3000
+# Start backend API (Port 5050) & frontend client (Port 3000)
 npm run dev:backend
-# In a separate shell terminal session
+# In a separate shell session
 npm run dev:frontend
 ```
-Open [http://localhost:3000](http://localhost:3000) to view the client dashboard.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 🔑 Login Credentials
+## 🔑 Hardcoded Credentials
 
-Access the internal dashboard using the following credentials:
+Access the dashboard using the following credentials:
 * **Username:** `matchmaker`
 * **Password:** `tdc123`
+
+---
+
+## 🛠️ Monorepo Scripts Directory
+
+All workspace tasks can be orchestrated directly from the root folder:
+
+| Command | Action / Scope | Target Location |
+| :--- | :--- | :--- |
+| `npm run install:all` | Installs dependencies for frontend & backend | `frontend/` & `backend/` |
+| `npm run dev:backend` | Starts the Express.js API server (Port 5050) | `backend/server.js` |
+| `npm run dev:frontend` | Starts the Next.js development client (Port 3000) | `frontend/` |
+| `npm run build:frontend` | Compiles Next.js for production deployment | `frontend/.next/` |
 
 ---
 
@@ -44,50 +65,41 @@ Access the internal dashboard using the following credentials:
 
 ```text
 Matchmaker Dashboard/
-├── frontend/                 # Next.js 16 Client SPA (Port 3000)
-│   ├── app/                  # Client-side user pages & routing
-│   │   ├── dashboard/        # Main portfolio board (table, card grid, kanban)
-│   │   ├── customers/[id]/   # Client details accordion & matches workspace
-│   │   ├── login/            # Authentication view
-│   │   └── matches/          # Match manager overview
-│   ├── components/           # Reusable UI widgets & cards
-│   ├── hooks/                # Custom hooks (useCustomers, useMatches, useNotes)
-│   ├── styles/               # Styling system (globals.css custom tokens)
-│   └── next.config.mjs       # Rewrites API routing proxy to backend (Port 5050)
+├── frontend/                 # Client SPA (Next.js 16 App Router)
+│   ├── app/                  # UI Views & layouts (login, dashboard, customer details)
+│   ├── components/           # Reusable widgets (cards, list tables, accordions)
+│   ├── hooks/                # Client state hooks (useCustomers, useMatches, useNotes)
+│   ├── styles/               # Design token stylesheets (globals.css)
+│   └── next.config.mjs       # Rewrites API routing proxy to Port 5050
 │
-├── backend/                  # Node.js Express.js API server (Port 5050)
-│   ├── config/               # DB file path configs
+├── backend/                  # API Web Server (Node.js/Express.js ES Modules)
+│   ├── config/               # Database seed loaders
 │   ├── controllers/          # Endpoint controllers (auth, customers, matches, notes)
 │   ├── lib/                  
-│   │   ├── matching/         # Core compatibility matching algorithm
-│   │   └── ai/               # Gemini API integration wrapper
-│   ├── routes/               # API Router endpoints mapping
-│   ├── services/             # Low-level JSON database reads/writes
-│   └── server.js             # Express app bootloader & middlewares
+│   │   ├── matching/         # Core compatibility matching algorithm formulas
+│   │   └── ai/               # Gemini API SDK integration wrapper
+│   ├── routes/               # Express endpoints routers mapping
+│   ├── services/             # Low-level JSON database read/write service
+│   └── server.js             # Express app bootloader & dotenv loaders
 │
-├── database/                 # Structured schemas & data seed files
-│   ├── schemas/              # Mongoose documentation schemas
-│   └── seed/                 # Primary JSON datastores (customers.json, profiles.json)
-│
-├── docs/                     # Technical specs & engineering manuals
-│   ├── architecture.md
-│   └── matching-engine.md
-└── package.json              # Monorepo task scripts runner
+├── database/                 # Structured schemas & data files
+│   ├── schemas/              # Mongoose data modeling documentation
+│   └── seed/                 # Datastores files (customers.json, profiles.json)
 ```
 
 ---
 
 ## 📐 System Architecture
 
-The monorepo separates view representation from business computations and algorithms:
+The monorepo separates view presentation from business computations and algorithms:
 
 ```mermaid
 graph TD
-    subgraph Client Browser
+    subgraph ClientBrowser ["Client Browser"]
         UI[Next.js 16 SPA Client<br/>Port 3000]
     end
 
-    subgraph Monorepo Infrastructure
+    subgraph MonorepoInfrastructure ["Monorepo Infrastructure"]
         Proxy[Next.js API Rewrite Proxy<br/>/api/:path*]
         Server[Express.js Server API<br/>Port 5050]
         MatchEng[Matrimonial Matching Engine]
@@ -104,8 +116,8 @@ graph TD
     Server -->|6. JSON response| Proxy
     Proxy -->|7. Hydrate State| UI
 
-    style Client Browser fill:#fdfbf7,stroke:#c36b7e,stroke-width:2px
-    style Monorepo Infrastructure fill:#f3ece3,stroke:#163b40,stroke-width:2px
+    style ClientBrowser fill:#fdfbf7,stroke:#c36b7e,stroke-width:2px
+    style MonorepoInfrastructure fill:#f3ece3,stroke:#163b40,stroke-width:2px
     style JSON_DB fill:#fff,stroke:#7a5c10,stroke-width:1px
 ```
 
@@ -116,7 +128,7 @@ graph TD
 ### 1. Login Page Layout
 ```mermaid
 graph TD
-    subgraph Login Screen
+    subgraph LoginScreen ["Login Screen"]
         Box["[ TDC Matchmaker. ] Login Card"]
         User["Field: Username Input (e.g. 'matchmaker')"]
         Pass["Field: Password Input (e.g. 'tdc123')"]
@@ -128,19 +140,19 @@ graph TD
         Pass --> Btn
         Btn --> Help
     end
-    style Login Screen fill:#fdfbf7,stroke:#163b40,stroke-width:2px
+    style LoginScreen fill:#fdfbf7,stroke:#163b40,stroke-width:2px
     style Box fill:#fff,stroke:#e8e2da
 ```
 
 ### 2. Portfolio Dashboard Page Layout
 ```mermaid
 graph TD
-    subgraph Dashboard Page Layout
+    subgraph DashboardPageLayout ["Dashboard Page Layout"]
         Header["Header: Brand Name Logo | Staff Tag | Logout Button"]
         KPIs["KPI Grid (5 Columns): Total Portfolio | New Inflow | Active Search | Matched Clients | Closed Profiles"]
         Filters["Filter Bar: Search Name Input | Gender Dropdown | Religion Dropdown | Status Dropdown | View Mode Switch (Table, Grid, Kanban)"]
         
-        subgraph View Container
+        subgraph ViewContainer ["View Container"]
             Table["Table View (Default): Row List (Avatar, Name, Gender, Age, City, Marital Status, Completeness, Stage Badge)"]
             Grid["Card Grid View: 4-Column Cards Grid (Initials Avatar, Name, Title, Profession, Chips for Diet/Religion, Note Preview)"]
             Kanban["Kanban View: 4 Stage Columns (New | Active | Matched | Closed) containing compact client cards"]
@@ -150,28 +162,28 @@ graph TD
         KPIs --> Filters
         Filters --> ViewContainer
     end
-    style Dashboard Page Layout fill:#fdfbf7,stroke:#163b40,stroke-width:2px
-    style View Container fill:#f3ece3,stroke:#e8e2da
+    style DashboardPageLayout fill:#fdfbf7,stroke:#163b40,stroke-width:2px
+    style ViewContainer fill:#f3ece3,stroke:#e8e2da
 ```
 
 ### 3. Customer Detail Page & Matchmaking Workspace
 ```mermaid
 graph TD
-    subgraph Customer Workspace
+    subgraph CustomerWorkspace ["Customer Workspace"]
         TopBar["Top Navigation: ← Back to Portfolio List | Client Name | Back to Dashboard Button"]
         
-        subgraph Sidebar (Left Column - 1/3 Width)
+        subgraph Sidebar ["Sidebar (Left Column - 1/3 Width)"]
             Avatar["Avatar & Basic Specs (Name, Age, City, Stage Status Badge)"]
             Accordion1["CRM Controls Accordion (Search Paused Switch | Account Closed Switch)"]
             Accordion2["Customer Biodata Accordion (Personal, Career details, Religion, Lifestyle properties)"]
             NotesBox["Matchmaker notes text-area: Add meeting inputs & history timeline"]
         end
         
-        subgraph Suggested Matches (Right Column - 2/3 Width)
+        subgraph SuggestedMatches ["Suggested Matches (Right Column - 2/3 Width)"]
             MatchHeader["Suggested Matches Panel Header: Opp Gender Pool Info | 'Top 5 Matches' tag"]
             Proposals["Active Proposals Panel: Collapsible list of sent match history statuses"]
             
-            subgraph Suggested Match Card Stack
+            subgraph SuggestedMatchCardStack ["Suggested Match Card Stack"]
                 EmptyState["Empty State: SVG Heart Illustration + 'Find Matches' CTA button (shown if matches not generated)"]
                 Card1["Match Card: Gender Initials, Name, Profession, Location, Match Score Badge, Compatibility narrative intro"]
                 Card2["Expanded Breakdown Accordion: Row Breakdown details for Caste, Tongue, Career, Location, Diet, etc"]
@@ -182,32 +194,25 @@ graph TD
         TopBar --> Sidebar
         TopBar --> SuggestedMatches
     end
-    style Customer Workspace fill:#fdfbf7,stroke:#163b40,stroke-width:2px
+    style CustomerWorkspace fill:#fdfbf7,stroke:#163b40,stroke-width:2px
     style Sidebar fill:#fff,stroke:#e8e2da
-    style Suggested Matches fill:#f3ece3,stroke:#e8e2da
+    style SuggestedMatches fill:#f3ece3,stroke:#e8e2da
 ```
 
 ---
 
-## 📝 Architectural & Matching Engine Write-up
+## 📝 Algorithmic Compatibility Engine
 
-### 1. Decoupled Monorepo Design
-To optimize developer productivity, the codebase splits frontend and backend concerns.
-* **Next.js 15 Client Frontend:** Pure user-interface rendering layer. It utilizes Client Side Rendering (CSR) and React hooks to fetch state asynchronously. Hydration mismatches are eliminated by verifying mounting states.
-* **Express.js API Backend:** Houses database query logic, algorithmic calculations, and external AI integrations. This setup guarantees that heavy computation and API keys remain hidden on the server, enhancing application security.
-* **Static Database Storage:** Utilizes flat JSON files inside `database/seed/` ([customers.json](file:///Users/anjaliprajapati/Desktop/Matchmaker%20Dashboard/database/seed/customers.json) and [profiles.json](file:///Users/anjaliprajapati/Desktop/Matchmaker%20Dashboard/database/seed/profiles.json)) acting as static tables. File writes persist edits (such as status updates or staff meeting notes) across application cycles.
+Matrimonial compatibility score calculations reside in [matchmaker.js](file:///Users/anjaliprajapati/Desktop/Matchmaker%20Dashboard/backend/lib/matching/matchmaker.js) and rank candidates based on 9 core Indian matrimonial vectors:
 
-### 2. Matching Formula Engine
-The compatibility score calculations reside in [matchmaker.js](file:///Users/anjaliprajapati/Desktop/Matchmaker%20Dashboard/backend/lib/matching/matchmaker.js) and rank candidates based on 9 core Indian matrimonial compatibility vectors:
-1. **Religion/Caste (caste):** Matches religion. Shared castes yield maximum points. Different religions yield inter-faith adjustments.
-2. **Mother Tongue (motherTongue):** Shared primary language compatibility.
-3. **Location (location):** Proximity alignment. If from different cities, relocatability flags are evaluated to award scores.
-4. **Family Values (familyValues):** Maps traditional/moderate/liberal spectrum values compatibility.
-5. **Career/Income (salary):** Compares candidate packages relative to client income preferences.
-6. **Diet (dietaryPreference):** Compares eating structures (Jain, Veg, Eggetarian, Non-Veg) in compatibility tiers.
-7. **Education (education):** Degree/intellectual levels matching.
-8. **Horoscope (horoscope):** Incorporates manglik and matching preferences.
-9. **Age (age):** Calculates age difference tolerances.
-
-### 3. Gemini Match Insights
-When match calculations complete, the [openai.js](file:///Users/anjaliprajapati/Desktop/Matchmaker%20Dashboard/backend/lib/ai/openai.js) controller communicates with the Google Gemini API (`gemini-1.5-flash` model). It inputs normalized compatibility percentages and preferences to write structured 2-sentence third-person summaries directly targeted at the matchmaker (detailing positive alignments and key friction points).
+| Scoring Category | Method / Logic | Matrimonial Rationale |
+| :--- | :--- | :--- |
+| **1. Religion & Caste** | Matches religion. Awards full points for matching caste. Handles inter-faith exceptions. | Culturally aligned social backgrounds. |
+| **2. Mother Tongue** | Identifies exact matches in spoken languages. | Communication comfort & family integration. |
+| **3. Location** | Scores local matches highest. Relocatability flags award partial credit. | Eliminates geographical friction. |
+| **4. Family Values** | Calculates difference on traditional $\leftrightarrow$ liberal spectrum. | Alignment of core lifestyles. |
+| **5. Career & Income** | Matches salary packages relative to client income preferences. | Aligned socio-economic standing. |
+| **6. Diet** | Matches food preference tiers (Jain > Veg > Eggetarian > Non-Veg). | Kitchen coordination. |
+| **7. Education Level** | Evaluates equivalence in professional degrees. | Intellectual compatibility. |
+| **8. Horoscope** | Evaluates manglik status and matching preferences. | Astro-compatibility preferences. |
+| **9. Age** | Calculates difference tolerances. | Age gap preferences. |
