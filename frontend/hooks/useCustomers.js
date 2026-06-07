@@ -13,7 +13,7 @@ export default function useCustomers() {
     status: 'all'
   });
   
-  const [viewMode, setViewMode] = useState('list'); // 'list', 'grid' or 'kanban'
+  const [viewMode, setViewMode] = useState('grid'); // 'list', 'grid' or 'kanban'
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
