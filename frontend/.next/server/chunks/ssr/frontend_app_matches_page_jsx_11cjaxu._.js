@@ -1,0 +1,3 @@
+module.exports=[86901,a=>{"use strict";var b=a.i(57850);a.i(45056);var c=a.i(93609);a.s(["default",0,function(){let a=(0,c.useRouter)();return(0,b.jsxs)("div",{className:"dashboard-container",style:{textAlign:"center",padding:"100px"},children:[(0,b.jsx)("h2",{children:"Matches Manager"}),(0,b.jsx)("p",{style:{color:"var(--text-muted)",margin:"10px 0 30px"},children:"This section is currently under development."}),(0,b.jsx)("button",{className:"auth-btn",onClick:()=>a.push("/dashboard"),style:{width:"200px",margin:"0 auto"},children:"Back to Dashboard"})]})}])}];
+
+//# sourceMappingURL=frontend_app_matches_page_jsx_11cjaxu._.js.map

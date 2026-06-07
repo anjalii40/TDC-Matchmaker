@@ -1,0 +1,3 @@
+module.exports=[76857,a=>{"use strict";var b=a.i(57850),c=a.i(45056),d=a.i(93609);a.s(["default",0,function(){let a=(0,d.useRouter)();return(0,c.useEffect)(()=>{"true"===localStorage.getItem("matchmaker_logged_in")?a.push("/dashboard"):a.push("/login")},[a]),(0,b.jsx)("div",{className:"dashboard-container",style:{display:"flex",justifyContent:"center",alignItems:"center",height:"80vh"},children:(0,b.jsx)("div",{style:{color:"var(--text-muted)",fontSize:"14px"},children:"Loading Matchmaker Workspace..."})})}])}];
+
+//# sourceMappingURL=frontend_app_page_jsx_0n6z07v._.js.map

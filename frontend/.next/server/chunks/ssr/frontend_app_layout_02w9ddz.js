@@ -1,0 +1,3 @@
+module.exports=[38558,a=>{"use strict";var b=a.i(18332);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"en",children:(0,b.jsx)("body",{children:a})})},"metadata",0,{title:"TDC Matchmaker Dashboard | The Dating Club",description:"Internal matchmaking workspace and client portfolio manager for the TDC team."}])},57313,a=>{a.n(a.i(38558))}];
+
+//# sourceMappingURL=frontend_app_layout_02w9ddz.js.map

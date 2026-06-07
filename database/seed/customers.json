@@ -1,0 +1,7295 @@
+[
+  {
+    "id": "1",
+    "firstName": "Nikhil",
+    "lastName": "Mishra",
+    "gender": "Male",
+    "dob": "1990-03-01",
+    "age": 36,
+    "country": "India",
+    "city": "Delhi",
+    "height": 174,
+    "email": "nikhil.mishra47@gmail.com",
+    "phone": "+91 97058783",
+    "undergraduateCollege": "Government Law College Mumbai",
+    "degree": "LLM",
+    "income": 5900000,
+    "currentCompany": "Luthra & Luthra",
+    "designation": "Partner (Law Firm)",
+    "languagesKnown": [
+      "English",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Kayastha",
+    "religion": "Hinduism",
+    "wantKids": "Maybe",
+    "openToRelocate": "No",
+    "openToPets": "Yes",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Hindi",
+    "dietaryPreference": "veg",
+    "manglikStatus": "No",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "New",
+    "agePreferenceMin": 30,
+    "agePreferenceMax": 36,
+    "preferredIncomeRange": {
+      "min": 4100000,
+      "max": 8900000
+    },
+    "notes": [
+      {
+        "id": "1780708313043",
+        "text": "Intake done. Prefers working professionals.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 1
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.85
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Intake done. Prefers working professionals."
+    },
+    "maritalStatus": "Divorced",
+    "matchesGenerated": true
+  },
+  {
+    "id": "2",
+    "firstName": "Sherin",
+    "lastName": "Joseph",
+    "gender": "Female",
+    "dob": "1991-01-02",
+    "age": 35,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 161,
+    "email": "sherin.joseph64@gmail.com",
+    "phone": "+91 98778042",
+    "undergraduateCollege": "St. Xavier's College",
+    "degree": "B.Com",
+    "income": 4600000,
+    "currentCompany": "Reliance Industries",
+    "designation": "Product Manager",
+    "languagesKnown": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Open/Other",
+    "religion": "Christianity",
+    "wantKids": "Yes",
+    "openToRelocate": "No",
+    "openToPets": "No",
+    "gotra": "N/A",
+    "motherTongue": "Tamil",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "New",
+    "agePreferenceMin": 35,
+    "agePreferenceMax": 41,
+    "preferredIncomeRange": {
+      "min": 4600000,
+      "max": 9200000
+    },
+    "notes": [
+      {
+        "id": "1780735431152",
+        "text": "Wants someone from the same city.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.7
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Wants someone from the same city."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "3",
+    "firstName": "Nirav",
+    "lastName": "Vora",
+    "gender": "Male",
+    "dob": "2001-03-18",
+    "age": 25,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 178,
+    "email": "nirav.vora88@gmail.com",
+    "phone": "+91 89161693",
+    "undergraduateCollege": "Symbiosis Law School Pune",
+    "degree": "LLM",
+    "income": 700000,
+    "currentCompany": "Tata Motors Legal",
+    "designation": "Associate Lawyer",
+    "languagesKnown": [
+      "English",
+      "Gujarati"
+    ],
+    "siblings": 2,
+    "caste": "Vaishya",
+    "religion": "Jainism",
+    "wantKids": "No",
+    "openToRelocate": "Maybe",
+    "openToPets": "No",
+    "gotra": "N/A",
+    "motherTongue": "Gujarati",
+    "dietaryPreference": "Jain",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "New",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 25,
+    "preferredIncomeRange": {
+      "min": 500000,
+      "max": 1100000
+    },
+    "notes": [
+      {
+        "id": "1780547796047",
+        "text": "Horoscope match is a strict requirement.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.85
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Horoscope match is a strict requirement."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "4",
+    "firstName": "Riya",
+    "lastName": "Ganguly",
+    "gender": "Female",
+    "dob": "1998-05-28",
+    "age": 28,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 159,
+    "email": "riya.ganguly88@gmail.com",
+    "phone": "+91 88581437",
+    "undergraduateCollege": "Symbiosis Law School Pune",
+    "degree": "LLM",
+    "income": 3400000,
+    "currentCompany": "Tata Motors Legal",
+    "designation": "Corporate Lawyer",
+    "languagesKnown": [
+      "English",
+      "Bengali"
+    ],
+    "siblings": 1,
+    "caste": "Kayastha",
+    "religion": "Hinduism",
+    "wantKids": "Maybe",
+    "openToRelocate": "Maybe",
+    "openToPets": "Yes",
+    "gotra": "Kashyap",
+    "motherTongue": "Bengali",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "Partially",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "New",
+    "agePreferenceMin": 28,
+    "agePreferenceMax": 34,
+    "preferredIncomeRange": {
+      "min": 3400000,
+      "max": 6800000
+    },
+    "notes": [
+      {
+        "id": "1780487171734",
+        "text": "Open to relocate within India.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Open to relocate within India."
+    },
+    "matchesGenerated": true,
+    "maritalStatus": "Single"
+  },
+  {
+    "id": "5",
+    "firstName": "Karthik",
+    "lastName": "Hegde",
+    "gender": "Male",
+    "dob": "2000-10-26",
+    "age": 26,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 168,
+    "email": "karthik.hegde62@gmail.com",
+    "phone": "+91 96715688",
+    "undergraduateCollege": "BITS Pilani",
+    "degree": "M.Tech",
+    "income": 1700000,
+    "currentCompany": "Swiggy",
+    "designation": "Software Engineer",
+    "languagesKnown": [
+      "English",
+      "Telugu",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Kshatriya",
+    "religion": "Hinduism",
+    "wantKids": "Maybe",
+    "openToRelocate": "No",
+    "openToPets": "Yes",
+    "gotra": "Atri",
+    "motherTongue": "Telugu",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Partially",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "New",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 26,
+    "preferredIncomeRange": {
+      "min": 1200000,
+      "max": 2600000
+    },
+    "notes": [
+      {
+        "id": "1780754952635",
+        "text": "Prefers a nuclear family setup.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.85
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.7
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Prefers a nuclear family setup."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "6",
+    "firstName": "Nisha",
+    "lastName": "Doshi",
+    "gender": "Female",
+    "dob": "2003-08-26",
+    "age": 23,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 167,
+    "email": "nisha.doshi92@gmail.com",
+    "phone": "+91 77545203",
+    "undergraduateCollege": "All India Institute of Medical Sciences (AIIMS)",
+    "degree": "M.B.B.S.",
+    "income": 900000,
+    "currentCompany": "Fortis Healthcare",
+    "designation": "Resident Doctor",
+    "languagesKnown": [
+      "English",
+      "Gujarati",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Open/Other",
+    "religion": "Jainism",
+    "wantKids": "No",
+    "openToRelocate": "Maybe",
+    "openToPets": "Maybe",
+    "gotra": "N/A",
+    "motherTongue": "Gujarati",
+    "dietaryPreference": "veg",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "New",
+    "agePreferenceMin": 23,
+    "agePreferenceMax": 29,
+    "preferredIncomeRange": {
+      "min": 900000,
+      "max": 1800000
+    },
+    "notes": [
+      {
+        "id": "1780171715479",
+        "text": "Looking for a well-educated partner.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.85
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.7
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Looking for a well-educated partner."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "7",
+    "firstName": "Rizwan",
+    "lastName": "Syed",
+    "gender": "Male",
+    "dob": "1994-05-28",
+    "age": 32,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 169,
+    "email": "rizwan.syed93@gmail.com",
+    "phone": "+91 99954238",
+    "undergraduateCollege": "Maulana Azad Medical College",
+    "degree": "M.S.",
+    "income": 4000000,
+    "currentCompany": "Manipal Hospitals",
+    "designation": "Consultant Doctor",
+    "languagesKnown": [
+      "English",
+      "Urdu",
+      "Hindi"
+    ],
+    "siblings": 1,
+    "caste": "Open/Other",
+    "religion": "Islam",
+    "wantKids": "Yes",
+    "openToRelocate": "Maybe",
+    "openToPets": "No",
+    "gotra": "N/A",
+    "motherTongue": "Urdu",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "New",
+    "agePreferenceMin": 26,
+    "agePreferenceMax": 32,
+    "preferredIncomeRange": {
+      "min": 2800000,
+      "max": 6000000
+    },
+    "notes": [
+      {
+        "id": "1780513038738",
+        "text": "Intake complete. Family-oriented values.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 1
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Intake complete. Family-oriented values."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "8",
+    "firstName": "Farah",
+    "lastName": "Khan",
+    "gender": "Female",
+    "dob": "1997-04-19",
+    "age": 29,
+    "country": "India",
+    "city": "Delhi",
+    "height": 160,
+    "email": "farah.khan58@gmail.com",
+    "phone": "+91 99362690",
+    "undergraduateCollege": "HR College",
+    "degree": "MBA",
+    "income": 2600000,
+    "currentCompany": "EY",
+    "designation": "Management Consultant",
+    "languagesKnown": [
+      "English",
+      "Urdu",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Open/Other",
+    "religion": "Islam",
+    "wantKids": "No",
+    "openToRelocate": "Maybe",
+    "openToPets": "Yes",
+    "gotra": "N/A",
+    "motherTongue": "Urdu",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "New",
+    "agePreferenceMin": 29,
+    "agePreferenceMax": 35,
+    "preferredIncomeRange": {
+      "min": 2600000,
+      "max": 5200000
+    },
+    "notes": [
+      {
+        "id": "1780002990676",
+        "text": "Prefers vegetarian partner.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Prefers vegetarian partner."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "9",
+    "firstName": "Prasad",
+    "lastName": "Jadhav",
+    "gender": "Male",
+    "dob": "2003-03-20",
+    "age": 23,
+    "country": "India",
+    "city": "Hyderabad",
+    "height": 186,
+    "email": "prasad.jadhav99@gmail.com",
+    "phone": "+91 89681221",
+    "undergraduateCollege": "IIT Madras",
+    "degree": "B.Tech",
+    "income": 1800000,
+    "currentCompany": "Infosys",
+    "designation": "Software Engineer",
+    "languagesKnown": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "Yes",
+    "openToPets": "Yes",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Marathi",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "Don't Know",
+    "familyType": "joint",
+    "familyValues": "traditional",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "New",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 23,
+    "preferredIncomeRange": {
+      "min": 1300000,
+      "max": 2700000
+    },
+    "notes": [
+      {
+        "id": "1780671335472",
+        "text": "Looking for progressive mindset.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Looking for progressive mindset."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "10",
+    "firstName": "Moumita",
+    "lastName": "Sen",
+    "gender": "Female",
+    "dob": "2003-07-15",
+    "age": 23,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 168,
+    "email": "moumita.sen31@gmail.com",
+    "phone": "+91 99246175",
+    "undergraduateCollege": "NALSAR University of Law Hyderabad",
+    "degree": "LLM",
+    "income": 900000,
+    "currentCompany": "Amarchand Mangaldas",
+    "designation": "Associate Lawyer",
+    "languagesKnown": [
+      "English",
+      "Bengali",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "Maybe",
+    "openToPets": "Maybe",
+    "gotra": "Kashyap",
+    "motherTongue": "Bengali",
+    "dietaryPreference": "eggetarian",
+    "manglikStatus": "Don't Know",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "New",
+    "agePreferenceMin": 23,
+    "agePreferenceMax": 29,
+    "preferredIncomeRange": {
+      "min": 900000,
+      "max": 1800000
+    },
+    "notes": [
+      {
+        "id": "1780228641549",
+        "text": "Intake done. Needs pets-friendly match.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Intake done. Needs pets-friendly match."
+    },
+    "maritalStatus": "Widowed",
+    "matchesGenerated": true
+  },
+  {
+    "id": "11",
+    "firstName": "Rohan",
+    "lastName": "Deshmukh",
+    "gender": "Male",
+    "dob": "1990-02-10",
+    "age": 36,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 175,
+    "email": "rohan.deshmukh46@gmail.com",
+    "phone": "+91 84171445",
+    "undergraduateCollege": "IIM Calcutta",
+    "degree": "MBA",
+    "income": 4800000,
+    "currentCompany": "KPMG",
+    "designation": "HR Manager",
+    "languagesKnown": [
+      "English",
+      "Marathi"
+    ],
+    "siblings": 1,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "No",
+    "openToPets": "No",
+    "gotra": "Gautam",
+    "motherTongue": "Marathi",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Partially",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "New",
+    "agePreferenceMin": 30,
+    "agePreferenceMax": 36,
+    "preferredIncomeRange": {
+      "min": 3400000,
+      "max": 7200000
+    },
+    "notes": [
+      {
+        "id": "1780540510507",
+        "text": "Prefers a partner with similar age.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 1
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.85
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Prefers a partner with similar age."
+    },
+    "maritalStatus": "Divorced",
+    "matchesGenerated": true
+  },
+  {
+    "id": "12",
+    "firstName": "Preet",
+    "lastName": "Dhillon",
+    "gender": "Female",
+    "dob": "2003-05-01",
+    "age": 23,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 152,
+    "email": "preet.dhillon52@gmail.com",
+    "phone": "+91 95283816",
+    "undergraduateCollege": "Armed Forces Medical College (AFMC) Pune",
+    "degree": "M.B.B.S.",
+    "income": 1300000,
+    "currentCompany": "Manipal Hospitals",
+    "designation": "Resident Doctor",
+    "languagesKnown": [
+      "English",
+      "Punjabi",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Open/Other",
+    "religion": "Sikhism",
+    "wantKids": "Yes",
+    "openToRelocate": "Maybe",
+    "openToPets": "Yes",
+    "gotra": "N/A",
+    "motherTongue": "Punjabi",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "New",
+    "agePreferenceMin": 23,
+    "agePreferenceMax": 29,
+    "preferredIncomeRange": {
+      "min": 1300000,
+      "max": 2600000
+    },
+    "notes": [
+      {
+        "id": "1780672077032",
+        "text": "Intake complete. Relocation is possible.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.85
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.7
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Intake complete. Relocation is possible."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "13",
+    "firstName": "Shreyas",
+    "lastName": "Shah",
+    "gender": "Male",
+    "dob": "1993-08-15",
+    "age": 33,
+    "country": "India",
+    "city": "Delhi",
+    "height": 185,
+    "email": "shreyas.shah99@gmail.com",
+    "phone": "+91 71796651",
+    "undergraduateCollege": "NALSAR University of Law Hyderabad",
+    "degree": "LLM",
+    "income": 5500000,
+    "currentCompany": "Amarchand Mangaldas",
+    "designation": "Partner (Law Firm)",
+    "languagesKnown": [
+      "English",
+      "Gujarati",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Vaishya",
+    "religion": "Jainism",
+    "wantKids": "Maybe",
+    "openToRelocate": "Maybe",
+    "openToPets": "Maybe",
+    "gotra": "N/A",
+    "motherTongue": "Gujarati",
+    "dietaryPreference": "veg",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "New",
+    "agePreferenceMin": 27,
+    "agePreferenceMax": 33,
+    "preferredIncomeRange": {
+      "min": 3800000,
+      "max": 8300000
+    },
+    "notes": [
+      {
+        "id": "1779913631224",
+        "text": "Looking for independent professional.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 1
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.85
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.7
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Looking for independent professional."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "14",
+    "firstName": "Keerthi",
+    "lastName": "Reddy",
+    "gender": "Female",
+    "dob": "1990-01-21",
+    "age": 36,
+    "country": "India",
+    "city": "Hyderabad",
+    "height": 164,
+    "email": "keerthi.reddy96@gmail.com",
+    "phone": "+91 95348151",
+    "undergraduateCollege": "IIT Delhi",
+    "degree": "MCA",
+    "income": 5500000,
+    "currentCompany": "Microsoft",
+    "designation": "Design Director",
+    "languagesKnown": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "Yes",
+    "openToPets": "Maybe",
+    "gotra": "Kashyap",
+    "motherTongue": "Tamil",
+    "dietaryPreference": "veg",
+    "manglikStatus": "No",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "New",
+    "agePreferenceMin": 36,
+    "agePreferenceMax": 42,
+    "preferredIncomeRange": {
+      "min": 5500000,
+      "max": 11000000
+    },
+    "notes": [
+      {
+        "id": "1780569248346",
+        "text": "Intake complete. Prefers liberal values.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.85
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Intake complete. Prefers liberal values."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "15",
+    "firstName": "Rupak",
+    "lastName": "Bose",
+    "gender": "Male",
+    "dob": "2003-05-25",
+    "age": 23,
+    "country": "India",
+    "city": "Delhi",
+    "height": 173,
+    "email": "rupak.bose33@gmail.com",
+    "phone": "+91 87139416",
+    "undergraduateCollege": "Maulana Azad Medical College",
+    "degree": "M.B.B.S.",
+    "income": 1200000,
+    "currentCompany": "Apollo Hospitals",
+    "designation": "Resident Doctor",
+    "languagesKnown": [
+      "English",
+      "Bengali"
+    ],
+    "siblings": 2,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "Yes",
+    "openToPets": "Maybe",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Bengali",
+    "dietaryPreference": "eggetarian",
+    "manglikStatus": "Partially",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "New",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 23,
+    "preferredIncomeRange": {
+      "min": 800000,
+      "max": 1800000
+    },
+    "notes": [
+      {
+        "id": "1779874542169",
+        "text": "Horoscope matching is preferred.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 1
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.85
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Horoscope matching is preferred."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "16",
+    "firstName": "Payal",
+    "lastName": "Vora",
+    "gender": "Female",
+    "dob": "1991-12-10",
+    "age": 35,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 155,
+    "email": "payal.vora87@gmail.com",
+    "phone": "+91 75827918",
+    "undergraduateCollege": "Faculty of Law Delhi University",
+    "degree": "LLB",
+    "income": 7000000,
+    "currentCompany": "Khaitan & Co",
+    "designation": "Partner (Law Firm)",
+    "languagesKnown": [
+      "English",
+      "Gujarati",
+      "Hindi"
+    ],
+    "siblings": 1,
+    "caste": "Vaishya",
+    "religion": "Jainism",
+    "wantKids": "No",
+    "openToRelocate": "Yes",
+    "openToPets": "Yes",
+    "gotra": "N/A",
+    "motherTongue": "Gujarati",
+    "dietaryPreference": "veg",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "New",
+    "agePreferenceMin": 35,
+    "agePreferenceMax": 41,
+    "preferredIncomeRange": {
+      "min": 7000000,
+      "max": 14000000
+    },
+    "notes": [
+      {
+        "id": "1780683988592",
+        "text": "Intake done. Prefers post-graduate partner.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 1
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.85
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Intake done. Prefers post-graduate partner."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "17",
+    "firstName": "Aarav",
+    "lastName": "Dubey",
+    "gender": "Male",
+    "dob": "1997-10-06",
+    "age": 29,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 184,
+    "email": "aarav.dubey59@gmail.com",
+    "phone": "+91 88912103",
+    "undergraduateCollege": "BITS Pilani",
+    "degree": "B.Tech",
+    "income": 1900000,
+    "currentCompany": "Google",
+    "designation": "Business Analyst",
+    "languagesKnown": [
+      "English",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Kshatriya",
+    "religion": "Hinduism",
+    "wantKids": "Maybe",
+    "openToRelocate": "No",
+    "openToPets": "No",
+    "gotra": "Shandilya",
+    "motherTongue": "Hindi",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Partially",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "New",
+    "agePreferenceMin": 23,
+    "agePreferenceMax": 29,
+    "preferredIncomeRange": {
+      "min": 1300000,
+      "max": 2900000
+    },
+    "notes": [
+      {
+        "id": "1780576387067",
+        "text": "Looking for someone in IT/Tech sector.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.85
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.7
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Looking for someone in IT/Tech sector."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "18",
+    "firstName": "Aishwarya",
+    "lastName": "Mishra",
+    "gender": "Female",
+    "dob": "1991-04-15",
+    "age": 35,
+    "country": "India",
+    "city": "Delhi",
+    "height": 171,
+    "email": "aishwarya.mishra64@gmail.com",
+    "phone": "+91 71018534",
+    "undergraduateCollege": "Kasturba Medical College Manipal",
+    "degree": "M.S.",
+    "income": 4100000,
+    "currentCompany": "Fortis Healthcare",
+    "designation": "Specialist Medical Practitioner",
+    "languagesKnown": [
+      "English",
+      "Hindi"
+    ],
+    "siblings": 1,
+    "caste": "Kshatriya",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "Maybe",
+    "openToPets": "Yes",
+    "gotra": "Kashyap",
+    "motherTongue": "Hindi",
+    "dietaryPreference": "veg",
+    "manglikStatus": "No",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "New",
+    "agePreferenceMin": 35,
+    "agePreferenceMax": 41,
+    "preferredIncomeRange": {
+      "min": 4100000,
+      "max": 8200000
+    },
+    "notes": [
+      {
+        "id": "1780417144030",
+        "text": "Intake done. Values compatibility over gotra.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 1
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.85
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.7
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Intake done. Values compatibility over gotra."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "19",
+    "firstName": "Rupak",
+    "lastName": "Bose",
+    "gender": "Male",
+    "dob": "1995-05-24",
+    "age": 31,
+    "country": "India",
+    "city": "Delhi",
+    "height": 175,
+    "email": "rupak.bose50@gmail.com",
+    "phone": "+91 79129999",
+    "undergraduateCollege": "National Law School of India University (NLSIU) Bangalore",
+    "degree": "LLB",
+    "income": 1600000,
+    "currentCompany": "Amarchand Mangaldas",
+    "designation": "Corporate Lawyer",
+    "languagesKnown": [
+      "English",
+      "Bengali",
+      "Hindi"
+    ],
+    "siblings": 1,
+    "caste": "Kayastha",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "Maybe",
+    "openToPets": "Yes",
+    "gotra": "Shandilya",
+    "motherTongue": "Bengali",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Partially",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "New",
+    "agePreferenceMin": 25,
+    "agePreferenceMax": 31,
+    "preferredIncomeRange": {
+      "min": 1100000,
+      "max": 2400000
+    },
+    "notes": [
+      {
+        "id": "1780703843081",
+        "text": "Intake complete. Open to simple matches.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 1
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.85
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Intake complete. Open to simple matches."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "20",
+    "firstName": "Shanthi",
+    "lastName": "Hegde",
+    "gender": "Female",
+    "dob": "2002-04-04",
+    "age": 24,
+    "country": "India",
+    "city": "Hyderabad",
+    "height": 175,
+    "email": "shanthi.hegde59@gmail.com",
+    "phone": "+91 83956685",
+    "undergraduateCollege": "IIT Delhi",
+    "degree": "B.Tech",
+    "income": 1100000,
+    "currentCompany": "Microsoft",
+    "designation": "Software Engineer",
+    "languagesKnown": [
+      "English",
+      "Telugu",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "Maybe",
+    "openToRelocate": "Yes",
+    "openToPets": "Maybe",
+    "gotra": "Atri",
+    "motherTongue": "Telugu",
+    "dietaryPreference": "eggetarian",
+    "manglikStatus": "Yes",
+    "familyType": "nuclear",
+    "familyValues": "moderate",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "New",
+    "agePreferenceMin": 24,
+    "agePreferenceMax": 30,
+    "preferredIncomeRange": {
+      "min": 1100000,
+      "max": 2200000
+    },
+    "notes": [
+      {
+        "id": "1779880552059",
+        "text": "Looking for a partner with modern outlook.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 1
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.85
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Looking for a partner with modern outlook."
+    },
+    "maritalStatus": "Widowed",
+    "matchesGenerated": true
+  },
+  {
+    "id": "21",
+    "firstName": "Angad",
+    "lastName": "Sidhu",
+    "gender": "Male",
+    "dob": "2002-06-01",
+    "age": 24,
+    "country": "India",
+    "city": "Delhi",
+    "height": 183,
+    "email": "angad.sidhu40@gmail.com",
+    "phone": "+91 82771259",
+    "undergraduateCollege": "Faculty of Law Delhi University",
+    "degree": "LLB",
+    "income": 700000,
+    "currentCompany": "Amarchand Mangaldas",
+    "designation": "Associate Lawyer",
+    "languagesKnown": [
+      "English",
+      "Punjabi"
+    ],
+    "siblings": 3,
+    "caste": "Open/Other",
+    "religion": "Sikhism",
+    "wantKids": "Maybe",
+    "openToRelocate": "Maybe",
+    "openToPets": "No",
+    "gotra": "N/A",
+    "motherTongue": "Punjabi",
+    "dietaryPreference": "veg",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 24,
+    "preferredIncomeRange": {
+      "min": 500000,
+      "max": 1100000
+    },
+    "notes": [
+      {
+        "id": "1780799194805",
+        "text": "Intake done. Prefers working professionals.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 1
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.85
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.7
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Intake done. Prefers working professionals."
+    },
+    "maritalStatus": "Divorced",
+    "matchesGenerated": true
+  },
+  {
+    "id": "22",
+    "firstName": "Debasree",
+    "lastName": "Chatterjee",
+    "gender": "Female",
+    "dob": "1996-05-25",
+    "age": 30,
+    "country": "India",
+    "city": "Pune",
+    "height": 168,
+    "email": "debasree.chatterjee55@gmail.com",
+    "phone": "+91 96092943",
+    "undergraduateCollege": "VIT Vellore",
+    "degree": "B.E.",
+    "income": 3100000,
+    "currentCompany": "Adobe",
+    "designation": "Senior Software Engineer",
+    "languagesKnown": [
+      "English",
+      "Bengali"
+    ],
+    "siblings": 1,
+    "caste": "Kayastha",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "Yes",
+    "openToPets": "Maybe",
+    "gotra": "Shandilya",
+    "motherTongue": "Bengali",
+    "dietaryPreference": "eggetarian",
+    "manglikStatus": "Yes",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 30,
+    "agePreferenceMax": 36,
+    "preferredIncomeRange": {
+      "min": 3100000,
+      "max": 6200000
+    },
+    "notes": [
+      {
+        "id": "1779874692643",
+        "text": "Wants someone from the same city.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Wants someone from the same city."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "23",
+    "firstName": "Amrinder",
+    "lastName": "Gill",
+    "gender": "Male",
+    "dob": "1991-07-07",
+    "age": 35,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 185,
+    "email": "amrinder.gill96@gmail.com",
+    "phone": "+91 97039562",
+    "undergraduateCollege": "Christ University",
+    "degree": "PGDM",
+    "income": 4500000,
+    "currentCompany": "KPMG",
+    "designation": "HR Manager",
+    "languagesKnown": [
+      "English",
+      "Punjabi"
+    ],
+    "siblings": 0,
+    "caste": "Open/Other",
+    "religion": "Sikhism",
+    "wantKids": "Maybe",
+    "openToRelocate": "Maybe",
+    "openToPets": "Maybe",
+    "gotra": "N/A",
+    "motherTongue": "Punjabi",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 29,
+    "agePreferenceMax": 35,
+    "preferredIncomeRange": {
+      "min": 3200000,
+      "max": 6800000
+    },
+    "notes": [
+      {
+        "id": "1779975492309",
+        "text": "Horoscope match is a strict requirement.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.7
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Horoscope match is a strict requirement."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "24",
+    "firstName": "Drashti",
+    "lastName": "Sanghvi",
+    "gender": "Female",
+    "dob": "1993-02-01",
+    "age": 33,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 157,
+    "email": "drashti.sanghvi50@gmail.com",
+    "phone": "+91 95816439",
+    "undergraduateCollege": "Kasturba Medical College Manipal",
+    "degree": "M.S.",
+    "income": 1900000,
+    "currentCompany": "Manipal Hospitals",
+    "designation": "Consultant Doctor",
+    "languagesKnown": [
+      "English",
+      "Gujarati"
+    ],
+    "siblings": 0,
+    "caste": "Vaishya",
+    "religion": "Jainism",
+    "wantKids": "Maybe",
+    "openToRelocate": "Maybe",
+    "openToPets": "No",
+    "gotra": "N/A",
+    "motherTongue": "Gujarati",
+    "dietaryPreference": "Jain",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "moderate",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 33,
+    "agePreferenceMax": 39,
+    "preferredIncomeRange": {
+      "min": 1900000,
+      "max": 3800000
+    },
+    "notes": [
+      {
+        "id": "1780582516595",
+        "text": "Open to relocate within India.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Open to relocate within India."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "25",
+    "firstName": "Mathew",
+    "lastName": "Joseph",
+    "gender": "Male",
+    "dob": "1993-02-16",
+    "age": 33,
+    "country": "India",
+    "city": "Pune",
+    "height": 184,
+    "email": "mathew.joseph15@gmail.com",
+    "phone": "+91 93189674",
+    "undergraduateCollege": "IIT Bombay",
+    "degree": "MCA",
+    "income": 5400000,
+    "currentCompany": "Infosys",
+    "designation": "Tech Lead",
+    "languagesKnown": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "siblings": 3,
+    "caste": "Open/Other",
+    "religion": "Christianity",
+    "wantKids": "No",
+    "openToRelocate": "Maybe",
+    "openToPets": "Yes",
+    "gotra": "N/A",
+    "motherTongue": "Tamil",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "traditional",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 27,
+    "agePreferenceMax": 33,
+    "preferredIncomeRange": {
+      "min": 3800000,
+      "max": 8100000
+    },
+    "notes": [
+      {
+        "id": "1780577225194",
+        "text": "Prefers a nuclear family setup.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 1
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.85
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.7
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Prefers a nuclear family setup."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "26",
+    "firstName": "Siddhi",
+    "lastName": "Patil",
+    "gender": "Female",
+    "dob": "1995-12-17",
+    "age": 31,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 172,
+    "email": "siddhi.patil42@gmail.com",
+    "phone": "+91 75309043",
+    "undergraduateCollege": "Faculty of Law Delhi University",
+    "degree": "LLB",
+    "income": 2500000,
+    "currentCompany": "Amarchand Mangaldas",
+    "designation": "Corporate Lawyer",
+    "languagesKnown": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "siblings": 1,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "Maybe",
+    "openToRelocate": "Yes",
+    "openToPets": "No",
+    "gotra": "Kashyap",
+    "motherTongue": "Marathi",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "Partially",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 31,
+    "agePreferenceMax": 37,
+    "preferredIncomeRange": {
+      "min": 2500000,
+      "max": 5000000
+    },
+    "notes": [
+      {
+        "id": "1780169239529",
+        "text": "Looking for a well-educated partner.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.85
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Looking for a well-educated partner."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "27",
+    "firstName": "Harpreet",
+    "lastName": "Sodhi",
+    "gender": "Male",
+    "dob": "2003-12-18",
+    "age": 23,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 182,
+    "email": "harpreet.sodhi37@gmail.com",
+    "phone": "+91 97182859",
+    "undergraduateCollege": "IIM Calcutta",
+    "degree": "PGDM",
+    "income": 1600000,
+    "currentCompany": "Deloitte",
+    "designation": "Investment Analyst",
+    "languagesKnown": [
+      "English",
+      "Punjabi"
+    ],
+    "siblings": 1,
+    "caste": "Open/Other",
+    "religion": "Sikhism",
+    "wantKids": "Maybe",
+    "openToRelocate": "No",
+    "openToPets": "Maybe",
+    "gotra": "N/A",
+    "motherTongue": "Punjabi",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 23,
+    "preferredIncomeRange": {
+      "min": 1100000,
+      "max": 2400000
+    },
+    "notes": [
+      {
+        "id": "1780550080430",
+        "text": "Intake complete. Family-oriented values.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 1
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.85
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Intake complete. Family-oriented values."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "28",
+    "firstName": "Pallavi",
+    "lastName": "Pawar",
+    "gender": "Female",
+    "dob": "2003-05-01",
+    "age": 23,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 165,
+    "email": "pallavi.pawar12@gmail.com",
+    "phone": "+91 78246272",
+    "undergraduateCollege": "VIT Vellore",
+    "degree": "M.Tech",
+    "income": 900000,
+    "currentCompany": "Amazon",
+    "designation": "Software Engineer",
+    "languagesKnown": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Kayastha",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "Yes",
+    "openToPets": "No",
+    "gotra": "Gautam",
+    "motherTongue": "Marathi",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "Yes",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Active",
+    "agePreferenceMin": 23,
+    "agePreferenceMax": 29,
+    "preferredIncomeRange": {
+      "min": 900000,
+      "max": 1800000
+    },
+    "notes": [
+      {
+        "id": "1780004228893",
+        "text": "Prefers vegetarian partner.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 1
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.85
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.7
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Prefers vegetarian partner."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "29",
+    "firstName": "George",
+    "lastName": "Varghese",
+    "gender": "Male",
+    "dob": "1998-02-06",
+    "age": 28,
+    "country": "India",
+    "city": "Chennai",
+    "height": 187,
+    "email": "george.varghese28@gmail.com",
+    "phone": "+91 81807572",
+    "undergraduateCollege": "All India Institute of Medical Sciences (AIIMS)",
+    "degree": "M.B.B.S.",
+    "income": 1300000,
+    "currentCompany": "Apollo Hospitals",
+    "designation": "Resident Doctor",
+    "languagesKnown": [
+      "English",
+      "Malayalam",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Open/Other",
+    "religion": "Christianity",
+    "wantKids": "Maybe",
+    "openToRelocate": "Yes",
+    "openToPets": "Yes",
+    "gotra": "N/A",
+    "motherTongue": "Malayalam",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 22,
+    "agePreferenceMax": 28,
+    "preferredIncomeRange": {
+      "min": 900000,
+      "max": 2000000
+    },
+    "notes": [
+      {
+        "id": "1780127681444",
+        "text": "Looking for progressive mindset.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 1
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Looking for progressive mindset."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "30",
+    "firstName": "Kinjal",
+    "lastName": "Shah",
+    "gender": "Female",
+    "dob": "1994-12-18",
+    "age": 32,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 154,
+    "email": "kinjal.shah56@gmail.com",
+    "phone": "+91 85521291",
+    "undergraduateCollege": "National Law School of India University (NLSIU) Bangalore",
+    "degree": "LLB",
+    "income": 2200000,
+    "currentCompany": "Amarchand Mangaldas",
+    "designation": "Corporate Lawyer",
+    "languagesKnown": [
+      "English",
+      "Gujarati",
+      "Hindi"
+    ],
+    "siblings": 1,
+    "caste": "Vaishya",
+    "religion": "Jainism",
+    "wantKids": "Yes",
+    "openToRelocate": "Maybe",
+    "openToPets": "No",
+    "gotra": "N/A",
+    "motherTongue": "Gujarati",
+    "dietaryPreference": "Jain",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 32,
+    "agePreferenceMax": 38,
+    "preferredIncomeRange": {
+      "min": 2200000,
+      "max": 4400000
+    },
+    "notes": [
+      {
+        "id": "1780606546328",
+        "text": "Intake done. Needs pets-friendly match.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 1
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Intake done. Needs pets-friendly match."
+    },
+    "maritalStatus": "Widowed",
+    "matchesGenerated": true
+  },
+  {
+    "id": "31",
+    "firstName": "Rudranil",
+    "lastName": "Ghoshal",
+    "gender": "Male",
+    "dob": "1994-06-04",
+    "age": 32,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 183,
+    "email": "rudranil.ghoshal54@gmail.com",
+    "phone": "+91 84876322",
+    "undergraduateCollege": "BITS Pilani",
+    "degree": "M.Tech",
+    "income": 5300000,
+    "currentCompany": "Swiggy",
+    "designation": "Product Manager",
+    "languagesKnown": [
+      "English",
+      "Bengali",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Kayastha",
+    "religion": "Hinduism",
+    "wantKids": "Maybe",
+    "openToRelocate": "No",
+    "openToPets": "Maybe",
+    "gotra": "Shandilya",
+    "motherTongue": "Bengali",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Don't Know",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Active",
+    "agePreferenceMin": 26,
+    "agePreferenceMax": 32,
+    "preferredIncomeRange": {
+      "min": 3700000,
+      "max": 8000000
+    },
+    "notes": [
+      {
+        "id": "1780166666817",
+        "text": "Prefers a partner with similar age.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 1
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.85
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.7
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Prefers a partner with similar age."
+    },
+    "maritalStatus": "Divorced",
+    "matchesGenerated": true
+  },
+  {
+    "id": "32",
+    "firstName": "Tanvi",
+    "lastName": "Bhonsle",
+    "gender": "Female",
+    "dob": "1992-12-03",
+    "age": 34,
+    "country": "India",
+    "city": "Delhi",
+    "height": 171,
+    "email": "tanvi.bhonsle32@gmail.com",
+    "phone": "+91 76157780",
+    "undergraduateCollege": "All India Institute of Medical Sciences (AIIMS)",
+    "degree": "M.S.",
+    "income": 2800000,
+    "currentCompany": "Apollo Hospitals",
+    "designation": "Consultant Doctor",
+    "languagesKnown": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "siblings": 1,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "Maybe",
+    "openToPets": "Yes",
+    "gotra": "Kashyap",
+    "motherTongue": "Marathi",
+    "dietaryPreference": "eggetarian",
+    "manglikStatus": "Yes",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Active",
+    "agePreferenceMin": 34,
+    "agePreferenceMax": 40,
+    "preferredIncomeRange": {
+      "min": 2800000,
+      "max": 5600000
+    },
+    "notes": [
+      {
+        "id": "1780821836967",
+        "text": "Intake complete. Relocation is possible.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 1
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.85
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Intake complete. Relocation is possible."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "33",
+    "firstName": "Armaan",
+    "lastName": "Malik",
+    "gender": "Male",
+    "dob": "1997-01-10",
+    "age": 29,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 177,
+    "email": "armaan.malik97@gmail.com",
+    "phone": "+91 88274497",
+    "undergraduateCollege": "Christ University",
+    "degree": "BBA",
+    "income": 2800000,
+    "currentCompany": "EY",
+    "designation": "Marketing Manager",
+    "languagesKnown": [
+      "English",
+      "Urdu"
+    ],
+    "siblings": 2,
+    "caste": "Open/Other",
+    "religion": "Islam",
+    "wantKids": "Maybe",
+    "openToRelocate": "Maybe",
+    "openToPets": "No",
+    "gotra": "N/A",
+    "motherTongue": "Urdu",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 23,
+    "agePreferenceMax": 29,
+    "preferredIncomeRange": {
+      "min": 2000000,
+      "max": 4200000
+    },
+    "notes": [
+      {
+        "id": "1779954232270",
+        "text": "Looking for independent professional.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 1
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.85
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Looking for independent professional."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "34",
+    "firstName": "Preeti",
+    "lastName": "Joshi",
+    "gender": "Female",
+    "dob": "2001-07-23",
+    "age": 25,
+    "country": "India",
+    "city": "Pune",
+    "height": 172,
+    "email": "preeti.joshi72@gmail.com",
+    "phone": "+91 77953630",
+    "undergraduateCollege": "IIT Madras",
+    "degree": "MCA",
+    "income": 1700000,
+    "currentCompany": "Flipkart",
+    "designation": "Software Engineer",
+    "languagesKnown": [
+      "English",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "No",
+    "openToPets": "Yes",
+    "gotra": "Shandilya",
+    "motherTongue": "Hindi",
+    "dietaryPreference": "veg",
+    "manglikStatus": "No",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Active",
+    "agePreferenceMin": 25,
+    "agePreferenceMax": 31,
+    "preferredIncomeRange": {
+      "min": 1700000,
+      "max": 3400000
+    },
+    "notes": [
+      {
+        "id": "1780026259251",
+        "text": "Intake complete. Prefers liberal values.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 1
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.85
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Intake complete. Prefers liberal values."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "35",
+    "firstName": "Gaurav",
+    "lastName": "Grover",
+    "gender": "Male",
+    "dob": "2001-01-28",
+    "age": 25,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 169,
+    "email": "gaurav.grover45@gmail.com",
+    "phone": "+91 77047129",
+    "undergraduateCollege": "HR College",
+    "degree": "B.Com",
+    "income": 1500000,
+    "currentCompany": "HDFC Bank",
+    "designation": "Business Analyst",
+    "languagesKnown": [
+      "English",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "Maybe",
+    "openToRelocate": "No",
+    "openToPets": "Maybe",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Hindi",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "No",
+    "familyType": "nuclear",
+    "familyValues": "moderate",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Active",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 25,
+    "preferredIncomeRange": {
+      "min": 1100000,
+      "max": 2300000
+    },
+    "notes": [
+      {
+        "id": "1780843603079",
+        "text": "Horoscope matching is preferred.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 1
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.85
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Horoscope matching is preferred."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "36",
+    "firstName": "Kaur",
+    "lastName": "Sandhu",
+    "gender": "Female",
+    "dob": "1993-08-20",
+    "age": 33,
+    "country": "India",
+    "city": "Pune",
+    "height": 158,
+    "email": "kaur.sandhu57@gmail.com",
+    "phone": "+91 88571176",
+    "undergraduateCollege": "Maulana Azad Medical College",
+    "degree": "M.D.",
+    "income": 2600000,
+    "currentCompany": "Apollo Hospitals",
+    "designation": "Specialist Medical Practitioner",
+    "languagesKnown": [
+      "English",
+      "Punjabi",
+      "Hindi"
+    ],
+    "siblings": 1,
+    "caste": "Open/Other",
+    "religion": "Sikhism",
+    "wantKids": "Yes",
+    "openToRelocate": "Maybe",
+    "openToPets": "Maybe",
+    "gotra": "N/A",
+    "motherTongue": "Punjabi",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 33,
+    "agePreferenceMax": 39,
+    "preferredIncomeRange": {
+      "min": 2600000,
+      "max": 5200000
+    },
+    "notes": [
+      {
+        "id": "1780159179850",
+        "text": "Intake done. Prefers post-graduate partner.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.7
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Intake done. Prefers post-graduate partner."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "37",
+    "firstName": "Joseph",
+    "lastName": "George",
+    "gender": "Male",
+    "dob": "1993-02-03",
+    "age": 33,
+    "country": "India",
+    "city": "Hyderabad",
+    "height": 170,
+    "email": "joseph.george80@gmail.com",
+    "phone": "+91 91444139",
+    "undergraduateCollege": "IIT Delhi",
+    "degree": "M.Tech",
+    "income": 3700000,
+    "currentCompany": "Amazon",
+    "designation": "Product Manager",
+    "languagesKnown": [
+      "English",
+      "Malayalam"
+    ],
+    "siblings": 2,
+    "caste": "Open/Other",
+    "religion": "Christianity",
+    "wantKids": "Maybe",
+    "openToRelocate": "Maybe",
+    "openToPets": "Yes",
+    "gotra": "N/A",
+    "motherTongue": "Malayalam",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "moderate",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 27,
+    "agePreferenceMax": 33,
+    "preferredIncomeRange": {
+      "min": 2600000,
+      "max": 5600000
+    },
+    "notes": [
+      {
+        "id": "1780048505457",
+        "text": "Looking for someone in IT/Tech sector.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 1
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.85
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.7
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Looking for someone in IT/Tech sector."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "38",
+    "firstName": "Simran",
+    "lastName": "Sandhu",
+    "gender": "Female",
+    "dob": "2003-03-10",
+    "age": 23,
+    "country": "India",
+    "city": "Delhi",
+    "height": 168,
+    "email": "simran.sandhu54@gmail.com",
+    "phone": "+91 78324088",
+    "undergraduateCollege": "Armed Forces Medical College (AFMC) Pune",
+    "degree": "M.B.B.S.",
+    "income": 1100000,
+    "currentCompany": "Medanta Medicity",
+    "designation": "Resident Doctor",
+    "languagesKnown": [
+      "English",
+      "Punjabi",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Open/Other",
+    "religion": "Sikhism",
+    "wantKids": "Yes",
+    "openToRelocate": "No",
+    "openToPets": "Yes",
+    "gotra": "N/A",
+    "motherTongue": "Punjabi",
+    "dietaryPreference": "veg",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "traditional",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 23,
+    "agePreferenceMax": 29,
+    "preferredIncomeRange": {
+      "min": 1100000,
+      "max": 2200000
+    },
+    "notes": [
+      {
+        "id": "1780804679309",
+        "text": "Intake done. Values compatibility over gotra.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Intake done. Values compatibility over gotra."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "39",
+    "firstName": "Angad",
+    "lastName": "Sidhu",
+    "gender": "Male",
+    "dob": "1990-03-14",
+    "age": 36,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 185,
+    "email": "angad.sidhu62@gmail.com",
+    "phone": "+91 95833283",
+    "undergraduateCollege": "Symbiosis Institute",
+    "degree": "BBA",
+    "income": 4100000,
+    "currentCompany": "ICICI Bank",
+    "designation": "HR Manager",
+    "languagesKnown": [
+      "English",
+      "Punjabi",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Open/Other",
+    "religion": "Sikhism",
+    "wantKids": "No",
+    "openToRelocate": "No",
+    "openToPets": "Yes",
+    "gotra": "N/A",
+    "motherTongue": "Punjabi",
+    "dietaryPreference": "veg",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "traditional",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 30,
+    "agePreferenceMax": 36,
+    "preferredIncomeRange": {
+      "min": 2900000,
+      "max": 6200000
+    },
+    "notes": [
+      {
+        "id": "1780567558193",
+        "text": "Intake complete. Open to simple matches.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Intake complete. Open to simple matches."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "40",
+    "firstName": "Maria",
+    "lastName": "Mathew",
+    "gender": "Female",
+    "dob": "2001-10-20",
+    "age": 25,
+    "country": "India",
+    "city": "Delhi",
+    "height": 155,
+    "email": "maria.mathew19@gmail.com",
+    "phone": "+91 82777897",
+    "undergraduateCollege": "IIM Ahmedabad",
+    "degree": "B.Com",
+    "income": 1400000,
+    "currentCompany": "Deloitte",
+    "designation": "Investment Analyst",
+    "languagesKnown": [
+      "English",
+      "Malayalam"
+    ],
+    "siblings": 1,
+    "caste": "Open/Other",
+    "religion": "Christianity",
+    "wantKids": "Maybe",
+    "openToRelocate": "Yes",
+    "openToPets": "No",
+    "gotra": "N/A",
+    "motherTongue": "Malayalam",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 25,
+    "agePreferenceMax": 31,
+    "preferredIncomeRange": {
+      "min": 1400000,
+      "max": 2800000
+    },
+    "notes": [
+      {
+        "id": "1779871402982",
+        "text": "Looking for a partner with modern outlook.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 1
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Looking for a partner with modern outlook."
+    },
+    "maritalStatus": "Widowed",
+    "matchesGenerated": true
+  },
+  {
+    "id": "41",
+    "firstName": "Rehan",
+    "lastName": "Malik",
+    "gender": "Male",
+    "dob": "2000-04-04",
+    "age": 26,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 181,
+    "email": "rehan.malik53@gmail.com",
+    "phone": "+91 88421784",
+    "undergraduateCollege": "Government Law College Mumbai",
+    "degree": "LLB",
+    "income": 700000,
+    "currentCompany": "Amarchand Mangaldas",
+    "designation": "Associate Lawyer",
+    "languagesKnown": [
+      "English",
+      "Urdu",
+      "Hindi"
+    ],
+    "siblings": 1,
+    "caste": "Open/Other",
+    "religion": "Islam",
+    "wantKids": "No",
+    "openToRelocate": "No",
+    "openToPets": "No",
+    "gotra": "N/A",
+    "motherTongue": "Urdu",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 26,
+    "preferredIncomeRange": {
+      "min": 500000,
+      "max": 1100000
+    },
+    "notes": [
+      {
+        "id": "1780554638240",
+        "text": "Intake done. Prefers working professionals.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 1
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Intake done. Prefers working professionals."
+    },
+    "maritalStatus": "Divorced",
+    "matchesGenerated": true
+  },
+  {
+    "id": "42",
+    "firstName": "Hina",
+    "lastName": "Khan",
+    "gender": "Female",
+    "dob": "1999-11-20",
+    "age": 27,
+    "country": "India",
+    "city": "Delhi",
+    "height": 153,
+    "email": "hina.khan11@gmail.com",
+    "phone": "+91 85576240",
+    "undergraduateCollege": "NALSAR University of Law Hyderabad",
+    "degree": "LLB",
+    "income": 1100000,
+    "currentCompany": "Luthra & Luthra",
+    "designation": "Associate Lawyer",
+    "languagesKnown": [
+      "English",
+      "Urdu",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Open/Other",
+    "religion": "Islam",
+    "wantKids": "Maybe",
+    "openToRelocate": "No",
+    "openToPets": "No",
+    "gotra": "N/A",
+    "motherTongue": "Urdu",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 27,
+    "agePreferenceMax": 33,
+    "preferredIncomeRange": {
+      "min": 1100000,
+      "max": 2200000
+    },
+    "notes": [
+      {
+        "id": "1780315535131",
+        "text": "Wants someone from the same city.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Wants someone from the same city."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "43",
+    "firstName": "Chinmay",
+    "lastName": "Jadhav",
+    "gender": "Male",
+    "dob": "1999-08-09",
+    "age": 27,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 178,
+    "email": "chinmay.jadhav28@gmail.com",
+    "phone": "+91 86635669",
+    "undergraduateCollege": "Kasturba Medical College Manipal",
+    "degree": "M.B.B.S.",
+    "income": 1100000,
+    "currentCompany": "Medanta Medicity",
+    "designation": "Resident Doctor",
+    "languagesKnown": [
+      "English",
+      "Marathi"
+    ],
+    "siblings": 2,
+    "caste": "Kayastha",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "Yes",
+    "openToPets": "No",
+    "gotra": "Kashyap",
+    "motherTongue": "Marathi",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Partially",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Active",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 27,
+    "preferredIncomeRange": {
+      "min": 800000,
+      "max": 1700000
+    },
+    "notes": [
+      {
+        "id": "1780514122029",
+        "text": "Horoscope match is a strict requirement.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 1
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.85
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Horoscope match is a strict requirement."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "44",
+    "firstName": "Maria",
+    "lastName": "Joseph",
+    "gender": "Female",
+    "dob": "1998-03-15",
+    "age": 28,
+    "country": "India",
+    "city": "Hyderabad",
+    "height": 152,
+    "email": "maria.joseph88@gmail.com",
+    "phone": "+91 94561890",
+    "undergraduateCollege": "VIT Vellore",
+    "degree": "B.E.",
+    "income": 1900000,
+    "currentCompany": "Google",
+    "designation": "Data Scientist",
+    "languagesKnown": [
+      "English",
+      "Tamil"
+    ],
+    "siblings": 0,
+    "caste": "Open/Other",
+    "religion": "Christianity",
+    "wantKids": "Maybe",
+    "openToRelocate": "Yes",
+    "openToPets": "Yes",
+    "gotra": "N/A",
+    "motherTongue": "Tamil",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 28,
+    "agePreferenceMax": 34,
+    "preferredIncomeRange": {
+      "min": 1900000,
+      "max": 3800000
+    },
+    "notes": [
+      {
+        "id": "1779961827816",
+        "text": "Open to relocate within India.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.85
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.7
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Open to relocate within India."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "45",
+    "firstName": "Joy",
+    "lastName": "Roy",
+    "gender": "Male",
+    "dob": "2002-06-09",
+    "age": 24,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 168,
+    "email": "joy.roy21@gmail.com",
+    "phone": "+91 84272010",
+    "undergraduateCollege": "BITS Pilani",
+    "degree": "MCA",
+    "income": 1200000,
+    "currentCompany": "Infosys",
+    "designation": "Software Engineer",
+    "languagesKnown": [
+      "English",
+      "Bengali",
+      "Hindi"
+    ],
+    "siblings": 3,
+    "caste": "Kayastha",
+    "religion": "Hinduism",
+    "wantKids": "Maybe",
+    "openToRelocate": "Maybe",
+    "openToPets": "No",
+    "gotra": "Shandilya",
+    "motherTongue": "Bengali",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "Yes",
+    "familyType": "joint",
+    "familyValues": "traditional",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 24,
+    "preferredIncomeRange": {
+      "min": 800000,
+      "max": 1800000
+    },
+    "notes": [
+      {
+        "id": "1780755186804",
+        "text": "Prefers a nuclear family setup.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Prefers a nuclear family setup."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "46",
+    "firstName": "Jyoti",
+    "lastName": "Sinha",
+    "gender": "Female",
+    "dob": "2000-12-14",
+    "age": 26,
+    "country": "India",
+    "city": "Hyderabad",
+    "height": 153,
+    "email": "jyoti.sinha70@gmail.com",
+    "phone": "+91 87016360",
+    "undergraduateCollege": "IIT Bombay",
+    "degree": "M.Tech",
+    "income": 1500000,
+    "currentCompany": "Paytm",
+    "designation": "Software Engineer",
+    "languagesKnown": [
+      "English",
+      "Hindi"
+    ],
+    "siblings": 3,
+    "caste": "Kayastha",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "Yes",
+    "openToPets": "No",
+    "gotra": "Shandilya",
+    "motherTongue": "Hindi",
+    "dietaryPreference": "eggetarian",
+    "manglikStatus": "Partially",
+    "familyType": "nuclear",
+    "familyValues": "moderate",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Active",
+    "agePreferenceMin": 26,
+    "agePreferenceMax": 32,
+    "preferredIncomeRange": {
+      "min": 1500000,
+      "max": 3000000
+    },
+    "notes": [
+      {
+        "id": "1780345276150",
+        "text": "Looking for a well-educated partner.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.85
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.7
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Looking for a well-educated partner."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "47",
+    "firstName": "Varun",
+    "lastName": "Verma",
+    "gender": "Male",
+    "dob": "1992-01-18",
+    "age": 34,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 172,
+    "email": "varun.verma78@gmail.com",
+    "phone": "+91 97545174",
+    "undergraduateCollege": "BITS Pilani",
+    "degree": "B.E.",
+    "income": 3400000,
+    "currentCompany": "Google",
+    "designation": "Tech Lead",
+    "languagesKnown": [
+      "English",
+      "Hindi"
+    ],
+    "siblings": 1,
+    "caste": "Kshatriya",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "No",
+    "openToPets": "Maybe",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Hindi",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "No",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Active",
+    "agePreferenceMin": 28,
+    "agePreferenceMax": 34,
+    "preferredIncomeRange": {
+      "min": 2400000,
+      "max": 5100000
+    },
+    "notes": [
+      {
+        "id": "1779900794545",
+        "text": "Intake complete. Family-oriented values.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.7
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Intake complete. Family-oriented values."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "48",
+    "firstName": "Pradnya",
+    "lastName": "Patil",
+    "gender": "Female",
+    "dob": "1996-06-26",
+    "age": 30,
+    "country": "India",
+    "city": "Delhi",
+    "height": 168,
+    "email": "pradnya.patil59@gmail.com",
+    "phone": "+91 98787175",
+    "undergraduateCollege": "Armed Forces Medical College (AFMC) Pune",
+    "degree": "M.D.",
+    "income": 3300000,
+    "currentCompany": "Fortis Healthcare",
+    "designation": "Specialist Medical Practitioner",
+    "languagesKnown": [
+      "English",
+      "Marathi"
+    ],
+    "siblings": 2,
+    "caste": "Maratha",
+    "religion": "Hinduism",
+    "wantKids": "Maybe",
+    "openToRelocate": "Maybe",
+    "openToPets": "Yes",
+    "gotra": "Gautam",
+    "motherTongue": "Marathi",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "No",
+    "familyType": "nuclear",
+    "familyValues": "moderate",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Active",
+    "agePreferenceMin": 30,
+    "agePreferenceMax": 36,
+    "preferredIncomeRange": {
+      "min": 3300000,
+      "max": 6600000
+    },
+    "notes": [
+      {
+        "id": "1780077255730",
+        "text": "Prefers vegetarian partner.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 1
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.85
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.7
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Prefers vegetarian partner."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "49",
+    "firstName": "Zain",
+    "lastName": "Ansari",
+    "gender": "Male",
+    "dob": "1998-10-16",
+    "age": 28,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 177,
+    "email": "zain.ansari81@gmail.com",
+    "phone": "+91 92985606",
+    "undergraduateCollege": "Armed Forces Medical College (AFMC) Pune",
+    "degree": "M.B.B.S.",
+    "income": 1200000,
+    "currentCompany": "Medanta Medicity",
+    "designation": "Resident Doctor",
+    "languagesKnown": [
+      "English",
+      "Urdu"
+    ],
+    "siblings": 3,
+    "caste": "Open/Other",
+    "religion": "Islam",
+    "wantKids": "Maybe",
+    "openToRelocate": "Maybe",
+    "openToPets": "Maybe",
+    "gotra": "N/A",
+    "motherTongue": "Urdu",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 22,
+    "agePreferenceMax": 28,
+    "preferredIncomeRange": {
+      "min": 800000,
+      "max": 1800000
+    },
+    "notes": [
+      {
+        "id": "1779936529622",
+        "text": "Looking for progressive mindset.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 1
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Looking for progressive mindset."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "50",
+    "firstName": "Sreya",
+    "lastName": "Das",
+    "gender": "Female",
+    "dob": "1999-12-26",
+    "age": 27,
+    "country": "India",
+    "city": "Delhi",
+    "height": 152,
+    "email": "sreya.das78@gmail.com",
+    "phone": "+91 85924180",
+    "undergraduateCollege": "IIM Bangalore",
+    "degree": "MBA",
+    "income": 2400000,
+    "currentCompany": "EY",
+    "designation": "Management Consultant",
+    "languagesKnown": [
+      "English",
+      "Bengali",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "Maybe",
+    "openToPets": "Yes",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Bengali",
+    "dietaryPreference": "eggetarian",
+    "manglikStatus": "Partially",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 27,
+    "agePreferenceMax": 33,
+    "preferredIncomeRange": {
+      "min": 2400000,
+      "max": 4800000
+    },
+    "notes": [
+      {
+        "id": "1780620122869",
+        "text": "Intake done. Needs pets-friendly match.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 1
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.85
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Intake done. Needs pets-friendly match."
+    },
+    "maritalStatus": "Widowed",
+    "matchesGenerated": true
+  },
+  {
+    "id": "51",
+    "firstName": "Raghunath",
+    "lastName": "Reddy",
+    "gender": "Male",
+    "dob": "1995-06-08",
+    "age": 31,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 180,
+    "email": "raghunath.reddy91@gmail.com",
+    "phone": "+91 78521386",
+    "undergraduateCollege": "BITS Pilani",
+    "degree": "M.Tech",
+    "income": 2900000,
+    "currentCompany": "Amazon",
+    "designation": "Senior Software Engineer",
+    "languagesKnown": [
+      "English",
+      "Kannada"
+    ],
+    "siblings": 0,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "Maybe",
+    "openToPets": "No",
+    "gotra": "Atri",
+    "motherTongue": "Kannada",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Partially",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 25,
+    "agePreferenceMax": 31,
+    "preferredIncomeRange": {
+      "min": 2000000,
+      "max": 4400000
+    },
+    "notes": [
+      {
+        "id": "1780764817712",
+        "text": "Prefers a partner with similar age.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.85
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Prefers a partner with similar age."
+    },
+    "maritalStatus": "Divorced",
+    "matchesGenerated": true
+  },
+  {
+    "id": "52",
+    "firstName": "Moumita",
+    "lastName": "Sen",
+    "gender": "Female",
+    "dob": "1990-08-14",
+    "age": 36,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 171,
+    "email": "moumita.sen80@gmail.com",
+    "phone": "+91 99566794",
+    "undergraduateCollege": "Symbiosis Law School Pune",
+    "degree": "LLB",
+    "income": 3800000,
+    "currentCompany": "Luthra & Luthra",
+    "designation": "Partner (Law Firm)",
+    "languagesKnown": [
+      "English",
+      "Bengali",
+      "Hindi"
+    ],
+    "siblings": 1,
+    "caste": "Kayastha",
+    "religion": "Hinduism",
+    "wantKids": "Maybe",
+    "openToRelocate": "Yes",
+    "openToPets": "Maybe",
+    "gotra": "Shandilya",
+    "motherTongue": "Bengali",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Don't Know",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 36,
+    "agePreferenceMax": 42,
+    "preferredIncomeRange": {
+      "min": 3800000,
+      "max": 7600000
+    },
+    "notes": [
+      {
+        "id": "1780395382213",
+        "text": "Intake complete. Relocation is possible.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 1
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.85
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.7
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Intake complete. Relocation is possible."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "53",
+    "firstName": "Sai",
+    "lastName": "Sastry",
+    "gender": "Male",
+    "dob": "2000-01-17",
+    "age": 26,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 172,
+    "email": "sai.sastry56@gmail.com",
+    "phone": "+91 77811891",
+    "undergraduateCollege": "Kasturba Medical College Manipal",
+    "degree": "M.B.B.S.",
+    "income": 1300000,
+    "currentCompany": "Medanta Medicity",
+    "designation": "Resident Doctor",
+    "languagesKnown": [
+      "English",
+      "Kannada",
+      "Hindi"
+    ],
+    "siblings": 1,
+    "caste": "Kshatriya",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "No",
+    "openToPets": "Maybe",
+    "gotra": "Gautam",
+    "motherTongue": "Kannada",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Yes",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 26,
+    "preferredIncomeRange": {
+      "min": 900000,
+      "max": 2000000
+    },
+    "notes": [
+      {
+        "id": "1780511739198",
+        "text": "Looking for independent professional.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.85
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Looking for independent professional."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "54",
+    "firstName": "Sherin",
+    "lastName": "Thomas",
+    "gender": "Female",
+    "dob": "1995-03-23",
+    "age": 31,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 152,
+    "email": "sherin.thomas36@gmail.com",
+    "phone": "+91 75608805",
+    "undergraduateCollege": "NALSAR University of Law Hyderabad",
+    "degree": "LLM",
+    "income": 1600000,
+    "currentCompany": "Amarchand Mangaldas",
+    "designation": "Corporate Lawyer",
+    "languagesKnown": [
+      "English",
+      "Tamil"
+    ],
+    "siblings": 3,
+    "caste": "Open/Other",
+    "religion": "Christianity",
+    "wantKids": "No",
+    "openToRelocate": "No",
+    "openToPets": "Yes",
+    "gotra": "N/A",
+    "motherTongue": "Tamil",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 31,
+    "agePreferenceMax": 37,
+    "preferredIncomeRange": {
+      "min": 1600000,
+      "max": 3200000
+    },
+    "notes": [
+      {
+        "id": "1780520418321",
+        "text": "Intake complete. Prefers liberal values.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.85
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.7
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Intake complete. Prefers liberal values."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "55",
+    "firstName": "Shreyas",
+    "lastName": "Doshi",
+    "gender": "Male",
+    "dob": "1996-02-21",
+    "age": 30,
+    "country": "India",
+    "city": "Pune",
+    "height": 170,
+    "email": "shreyas.doshi98@gmail.com",
+    "phone": "+91 73178857",
+    "undergraduateCollege": "BITS Pilani",
+    "degree": "B.Tech",
+    "income": 2900000,
+    "currentCompany": "TCS",
+    "designation": "Data Scientist",
+    "languagesKnown": [
+      "English",
+      "Gujarati"
+    ],
+    "siblings": 0,
+    "caste": "Open/Other",
+    "religion": "Jainism",
+    "wantKids": "No",
+    "openToRelocate": "Maybe",
+    "openToPets": "Yes",
+    "gotra": "N/A",
+    "motherTongue": "Gujarati",
+    "dietaryPreference": "veg",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 24,
+    "agePreferenceMax": 30,
+    "preferredIncomeRange": {
+      "min": 2000000,
+      "max": 4400000
+    },
+    "notes": [
+      {
+        "id": "1780202463400",
+        "text": "Horoscope matching is preferred.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 1
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.85
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.7
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Horoscope matching is preferred."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "56",
+    "firstName": "Shanthi",
+    "lastName": "Subramanian",
+    "gender": "Female",
+    "dob": "2003-05-18",
+    "age": 23,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 163,
+    "email": "shanthi.subramanian36@gmail.com",
+    "phone": "+91 84509017",
+    "undergraduateCollege": "IIT Delhi",
+    "degree": "MCA",
+    "income": 1100000,
+    "currentCompany": "Microsoft",
+    "designation": "Software Engineer",
+    "languagesKnown": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "siblings": 1,
+    "caste": "Kshatriya",
+    "religion": "Hinduism",
+    "wantKids": "Maybe",
+    "openToRelocate": "Yes",
+    "openToPets": "Yes",
+    "gotra": "Gautam",
+    "motherTongue": "Tamil",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "Yes",
+    "familyType": "nuclear",
+    "familyValues": "moderate",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Active",
+    "agePreferenceMin": 23,
+    "agePreferenceMax": 29,
+    "preferredIncomeRange": {
+      "min": 1100000,
+      "max": 2200000
+    },
+    "notes": [
+      {
+        "id": "1779975816914",
+        "text": "Intake done. Prefers post-graduate partner.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 1
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.85
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.7
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Intake done. Prefers post-graduate partner."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "57",
+    "firstName": "Siddharth",
+    "lastName": "Trivedi",
+    "gender": "Male",
+    "dob": "1997-01-25",
+    "age": 29,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 182,
+    "email": "siddharth.trivedi55@gmail.com",
+    "phone": "+91 97095829",
+    "undergraduateCollege": "Government Law College Mumbai",
+    "degree": "LLM",
+    "income": 2500000,
+    "currentCompany": "ICICI Bank Legal Dept",
+    "designation": "Corporate Lawyer",
+    "languagesKnown": [
+      "English",
+      "Hindi"
+    ],
+    "siblings": 3,
+    "caste": "Kshatriya",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "Yes",
+    "openToPets": "No",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Hindi",
+    "dietaryPreference": "veg",
+    "manglikStatus": "No",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Active",
+    "agePreferenceMin": 23,
+    "agePreferenceMax": 29,
+    "preferredIncomeRange": {
+      "min": 1800000,
+      "max": 3800000
+    },
+    "notes": [
+      {
+        "id": "1780173789133",
+        "text": "Looking for someone in IT/Tech sector.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 1
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Looking for someone in IT/Tech sector."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "58",
+    "firstName": "Preeti",
+    "lastName": "Malhotra",
+    "gender": "Female",
+    "dob": "2000-02-16",
+    "age": 26,
+    "country": "India",
+    "city": "Pune",
+    "height": 163,
+    "email": "preeti.malhotra76@gmail.com",
+    "phone": "+91 73897272",
+    "undergraduateCollege": "All India Institute of Medical Sciences (AIIMS)",
+    "degree": "M.B.B.S.",
+    "income": 900000,
+    "currentCompany": "Manipal Hospitals",
+    "designation": "Resident Doctor",
+    "languagesKnown": [
+      "English",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Kayastha",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "Maybe",
+    "openToPets": "No",
+    "gotra": "Kashyap",
+    "motherTongue": "Hindi",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Partially",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Active",
+    "agePreferenceMin": 26,
+    "agePreferenceMax": 32,
+    "preferredIncomeRange": {
+      "min": 900000,
+      "max": 1800000
+    },
+    "notes": [
+      {
+        "id": "1780560282293",
+        "text": "Intake done. Values compatibility over gotra.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Intake done. Values compatibility over gotra."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "59",
+    "firstName": "Aniket",
+    "lastName": "Joshi",
+    "gender": "Male",
+    "dob": "2003-04-17",
+    "age": 23,
+    "country": "India",
+    "city": "Chennai",
+    "height": 189,
+    "email": "aniket.joshi55@gmail.com",
+    "phone": "+91 77263361",
+    "undergraduateCollege": "Maulana Azad Medical College",
+    "degree": "M.B.B.S.",
+    "income": 1200000,
+    "currentCompany": "Fortis Healthcare",
+    "designation": "Resident Doctor",
+    "languagesKnown": [
+      "English",
+      "Marathi"
+    ],
+    "siblings": 2,
+    "caste": "Kayastha",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "Maybe",
+    "openToPets": "Maybe",
+    "gotra": "Gautam",
+    "motherTongue": "Marathi",
+    "dietaryPreference": "eggetarian",
+    "manglikStatus": "Don't Know",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 23,
+    "preferredIncomeRange": {
+      "min": 800000,
+      "max": 1800000
+    },
+    "notes": [
+      {
+        "id": "1779983756485",
+        "text": "Intake complete. Open to simple matches.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Intake complete. Open to simple matches."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "60",
+    "firstName": "Anjali",
+    "lastName": "Jadhav",
+    "gender": "Female",
+    "dob": "1994-11-12",
+    "age": 32,
+    "country": "India",
+    "city": "Chennai",
+    "height": 157,
+    "email": "anjali.jadhav95@gmail.com",
+    "phone": "+91 89661271",
+    "undergraduateCollege": "All India Institute of Medical Sciences (AIIMS)",
+    "degree": "M.S.",
+    "income": 1900000,
+    "currentCompany": "Fortis Healthcare",
+    "designation": "Consultant Doctor",
+    "languagesKnown": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Maratha",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "Yes",
+    "openToPets": "No",
+    "gotra": "Atri",
+    "motherTongue": "Marathi",
+    "dietaryPreference": "eggetarian",
+    "manglikStatus": "Partially",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 32,
+    "agePreferenceMax": 38,
+    "preferredIncomeRange": {
+      "min": 1900000,
+      "max": 3800000
+    },
+    "notes": [
+      {
+        "id": "1780140036657",
+        "text": "Looking for a partner with modern outlook.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.7
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Looking for a partner with modern outlook."
+    },
+    "maritalStatus": "Widowed",
+    "matchesGenerated": true
+  },
+  {
+    "id": "61",
+    "firstName": "Kabir",
+    "lastName": "Mishra",
+    "gender": "Male",
+    "dob": "1994-06-17",
+    "age": 32,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 190,
+    "email": "kabir.mishra15@gmail.com",
+    "phone": "+91 91179839",
+    "undergraduateCollege": "Kasturba Medical College Manipal",
+    "degree": "M.D.",
+    "income": 2900000,
+    "currentCompany": "Fortis Healthcare",
+    "designation": "Specialist Medical Practitioner",
+    "languagesKnown": [
+      "English",
+      "Hindi"
+    ],
+    "siblings": 1,
+    "caste": "Kayastha",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "Yes",
+    "openToPets": "Maybe",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Hindi",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Yes",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 26,
+    "agePreferenceMax": 32,
+    "preferredIncomeRange": {
+      "min": 2000000,
+      "max": 4400000
+    },
+    "notes": [
+      {
+        "id": "1780308383568",
+        "text": "Intake done. Prefers working professionals.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 1
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Intake done. Prefers working professionals."
+    },
+    "maritalStatus": "Divorced",
+    "matchesGenerated": true
+  },
+  {
+    "id": "62",
+    "firstName": "Debasree",
+    "lastName": "Das",
+    "gender": "Female",
+    "dob": "2002-03-10",
+    "age": 24,
+    "country": "India",
+    "city": "Chennai",
+    "height": 165,
+    "email": "debasree.das49@gmail.com",
+    "phone": "+91 82631690",
+    "undergraduateCollege": "Maulana Azad Medical College",
+    "degree": "M.B.B.S.",
+    "income": 1100000,
+    "currentCompany": "Manipal Hospitals",
+    "designation": "Resident Doctor",
+    "languagesKnown": [
+      "English",
+      "Bengali",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Kayastha",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "No",
+    "openToPets": "Maybe",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Bengali",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Yes",
+    "familyType": "joint",
+    "familyValues": "traditional",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Active",
+    "agePreferenceMin": 24,
+    "agePreferenceMax": 30,
+    "preferredIncomeRange": {
+      "min": 1100000,
+      "max": 2200000
+    },
+    "notes": [
+      {
+        "id": "1780838456453",
+        "text": "Wants someone from the same city.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.85
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.7
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Wants someone from the same city."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "63",
+    "firstName": "Sai",
+    "lastName": "Hegde",
+    "gender": "Male",
+    "dob": "1995-10-14",
+    "age": 31,
+    "country": "India",
+    "city": "Hyderabad",
+    "height": 179,
+    "email": "sai.hegde53@gmail.com",
+    "phone": "+91 76655261",
+    "undergraduateCollege": "Anna University",
+    "degree": "B.Tech",
+    "income": 2400000,
+    "currentCompany": "Infosys",
+    "designation": "Data Scientist",
+    "languagesKnown": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Open/Other",
+    "religion": "Hinduism",
+    "wantKids": "Maybe",
+    "openToRelocate": "Yes",
+    "openToPets": "No",
+    "gotra": "Kashyap",
+    "motherTongue": "Tamil",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Partially",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 25,
+    "agePreferenceMax": 31,
+    "preferredIncomeRange": {
+      "min": 1700000,
+      "max": 3600000
+    },
+    "notes": [
+      {
+        "id": "1780012953804",
+        "text": "Horoscope match is a strict requirement.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 1
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Horoscope match is a strict requirement."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "64",
+    "firstName": "Jasmin",
+    "lastName": "Kaur",
+    "gender": "Female",
+    "dob": "1994-08-06",
+    "age": 32,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 155,
+    "email": "jasmin.kaur21@gmail.com",
+    "phone": "+91 83539863",
+    "undergraduateCollege": "National Law School of India University (NLSIU) Bangalore",
+    "degree": "LLM",
+    "income": 2900000,
+    "currentCompany": "Khaitan & Co",
+    "designation": "Corporate Lawyer",
+    "languagesKnown": [
+      "English",
+      "Punjabi"
+    ],
+    "siblings": 3,
+    "caste": "Open/Other",
+    "religion": "Sikhism",
+    "wantKids": "Yes",
+    "openToRelocate": "Yes",
+    "openToPets": "No",
+    "gotra": "N/A",
+    "motherTongue": "Punjabi",
+    "dietaryPreference": "veg",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Active",
+    "agePreferenceMin": 32,
+    "agePreferenceMax": 38,
+    "preferredIncomeRange": {
+      "min": 2900000,
+      "max": 5800000
+    },
+    "notes": [
+      {
+        "id": "1780840133418",
+        "text": "Open to relocate within India.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 1
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Open to relocate within India."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "65",
+    "firstName": "Suyash",
+    "lastName": "Pawar",
+    "gender": "Male",
+    "dob": "1999-03-27",
+    "age": 27,
+    "country": "India",
+    "city": "Chennai",
+    "height": 180,
+    "email": "suyash.pawar54@gmail.com",
+    "phone": "+91 76597398",
+    "undergraduateCollege": "Armed Forces Medical College (AFMC) Pune",
+    "degree": "M.B.B.S.",
+    "income": 1200000,
+    "currentCompany": "Medanta Medicity",
+    "designation": "Resident Doctor",
+    "languagesKnown": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "siblings": 1,
+    "caste": "Kayastha",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "Yes",
+    "openToPets": "No",
+    "gotra": "Kashyap",
+    "motherTongue": "Marathi",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "Partially",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Active",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 27,
+    "preferredIncomeRange": {
+      "min": 800000,
+      "max": 1800000
+    },
+    "notes": [
+      {
+        "id": "1780489293882",
+        "text": "Prefers a nuclear family setup.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 1
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Prefers a nuclear family setup."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "66",
+    "firstName": "Kinjal",
+    "lastName": "Doshi",
+    "gender": "Female",
+    "dob": "2002-05-07",
+    "age": 24,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 174,
+    "email": "kinjal.doshi15@gmail.com",
+    "phone": "+91 95084487",
+    "undergraduateCollege": "BITS Pilani",
+    "degree": "M.Tech",
+    "income": 1800000,
+    "currentCompany": "Paytm",
+    "designation": "Software Engineer",
+    "languagesKnown": [
+      "English",
+      "Gujarati",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Open/Other",
+    "religion": "Jainism",
+    "wantKids": "Yes",
+    "openToRelocate": "Maybe",
+    "openToPets": "Maybe",
+    "gotra": "N/A",
+    "motherTongue": "Gujarati",
+    "dietaryPreference": "Jain",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Matched",
+    "agePreferenceMin": 24,
+    "agePreferenceMax": 30,
+    "preferredIncomeRange": {
+      "min": 1800000,
+      "max": 3600000
+    },
+    "notes": [
+      {
+        "id": "1780436379178",
+        "text": "Looking for a well-educated partner.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 1
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.85
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Looking for a well-educated partner."
+    },
+    "matchesGenerated": true,
+    "maritalStatus": "Single"
+  },
+  {
+    "id": "67",
+    "firstName": "Anant",
+    "lastName": "Iyer",
+    "gender": "Male",
+    "dob": "1990-06-21",
+    "age": 36,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 183,
+    "email": "anant.iyer58@gmail.com",
+    "phone": "+91 83908652",
+    "undergraduateCollege": "FMS Delhi",
+    "degree": "PGDM",
+    "income": 3500000,
+    "currentCompany": "Boston Consulting Group",
+    "designation": "Senior Consultant",
+    "languagesKnown": [
+      "English",
+      "Tamil"
+    ],
+    "siblings": 3,
+    "caste": "Kshatriya",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "Maybe",
+    "openToPets": "Yes",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Tamil",
+    "dietaryPreference": "veg",
+    "manglikStatus": "No",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Matched",
+    "agePreferenceMin": 30,
+    "agePreferenceMax": 36,
+    "preferredIncomeRange": {
+      "min": 2500000,
+      "max": 5300000
+    },
+    "notes": [
+      {
+        "id": "1779858025309",
+        "text": "Intake complete. Family-oriented values.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 1
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.85
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Intake complete. Family-oriented values."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "68",
+    "firstName": "Riddhi",
+    "lastName": "Grover",
+    "gender": "Female",
+    "dob": "2000-10-19",
+    "age": 26,
+    "country": "India",
+    "city": "Delhi",
+    "height": 169,
+    "email": "riddhi.grover49@gmail.com",
+    "phone": "+91 85858507",
+    "undergraduateCollege": "Kasturba Medical College Manipal",
+    "degree": "M.B.B.S.",
+    "income": 1200000,
+    "currentCompany": "Medanta Medicity",
+    "designation": "Resident Doctor",
+    "languagesKnown": [
+      "English",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Kshatriya",
+    "religion": "Hinduism",
+    "wantKids": "Maybe",
+    "openToRelocate": "Yes",
+    "openToPets": "No",
+    "gotra": "Vashishta",
+    "motherTongue": "Hindi",
+    "dietaryPreference": "eggetarian",
+    "manglikStatus": "No",
+    "familyType": "joint",
+    "familyValues": "traditional",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Matched",
+    "agePreferenceMin": 26,
+    "agePreferenceMax": 32,
+    "preferredIncomeRange": {
+      "min": 1200000,
+      "max": 2400000
+    },
+    "notes": [
+      {
+        "id": "1780602531443",
+        "text": "Prefers vegetarian partner.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Prefers vegetarian partner."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "69",
+    "firstName": "Rupak",
+    "lastName": "Choudhury",
+    "gender": "Male",
+    "dob": "1999-07-03",
+    "age": 27,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 175,
+    "email": "rupak.choudhury27@gmail.com",
+    "phone": "+91 81895317",
+    "undergraduateCollege": "Government Law College Mumbai",
+    "degree": "LLM",
+    "income": 700000,
+    "currentCompany": "Amarchand Mangaldas",
+    "designation": "Associate Lawyer",
+    "languagesKnown": [
+      "English",
+      "Bengali"
+    ],
+    "siblings": 1,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "No",
+    "openToPets": "No",
+    "gotra": "Kashyap",
+    "motherTongue": "Bengali",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Don't Know",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Matched",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 27,
+    "preferredIncomeRange": {
+      "min": 500000,
+      "max": 1100000
+    },
+    "notes": [
+      {
+        "id": "1779999442535",
+        "text": "Looking for progressive mindset.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 1
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Looking for progressive mindset."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "70",
+    "firstName": "Riddhi",
+    "lastName": "Sinha",
+    "gender": "Female",
+    "dob": "2001-02-08",
+    "age": 25,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 175,
+    "email": "riddhi.sinha68@gmail.com",
+    "phone": "+91 98725021",
+    "undergraduateCollege": "Kasturba Medical College Manipal",
+    "degree": "M.B.B.S.",
+    "income": 1000000,
+    "currentCompany": "Fortis Healthcare",
+    "designation": "Resident Doctor",
+    "languagesKnown": [
+      "English",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Kayastha",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "Yes",
+    "openToPets": "No",
+    "gotra": "Shandilya",
+    "motherTongue": "Hindi",
+    "dietaryPreference": "eggetarian",
+    "manglikStatus": "Yes",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Matched",
+    "agePreferenceMin": 25,
+    "agePreferenceMax": 31,
+    "preferredIncomeRange": {
+      "min": 1000000,
+      "max": 2000000
+    },
+    "notes": [
+      {
+        "id": "1780804374436",
+        "text": "Intake done. Needs pets-friendly match.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 1
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.85
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.7
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Intake done. Needs pets-friendly match."
+    },
+    "maritalStatus": "Widowed",
+    "matchesGenerated": true
+  },
+  {
+    "id": "71",
+    "firstName": "Joy",
+    "lastName": "Mukherjee",
+    "gender": "Male",
+    "dob": "2003-10-01",
+    "age": 23,
+    "country": "India",
+    "city": "Chennai",
+    "height": 188,
+    "email": "joy.mukherjee21@gmail.com",
+    "phone": "+91 86636411",
+    "undergraduateCollege": "Maulana Azad Medical College",
+    "degree": "M.B.B.S.",
+    "income": 1300000,
+    "currentCompany": "Fortis Healthcare",
+    "designation": "Resident Doctor",
+    "languagesKnown": [
+      "English",
+      "Bengali",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "No",
+    "openToPets": "Maybe",
+    "gotra": "Shandilya",
+    "motherTongue": "Bengali",
+    "dietaryPreference": "veg",
+    "manglikStatus": "No",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Matched",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 23,
+    "preferredIncomeRange": {
+      "min": 900000,
+      "max": 2000000
+    },
+    "notes": [
+      {
+        "id": "1780269469676",
+        "text": "Prefers a partner with similar age.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.7
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Prefers a partner with similar age."
+    },
+    "maritalStatus": "Divorced",
+    "matchesGenerated": true
+  },
+  {
+    "id": "72",
+    "firstName": "Kavya",
+    "lastName": "Rao",
+    "gender": "Female",
+    "dob": "1991-10-14",
+    "age": 35,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 164,
+    "email": "kavya.rao85@gmail.com",
+    "phone": "+91 83493123",
+    "undergraduateCollege": "Government Law College Mumbai",
+    "degree": "LLB",
+    "income": 4100000,
+    "currentCompany": "Khaitan & Co",
+    "designation": "Partner (Law Firm)",
+    "languagesKnown": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Kshatriya",
+    "religion": "Hinduism",
+    "wantKids": "Maybe",
+    "openToRelocate": "No",
+    "openToPets": "Yes",
+    "gotra": "Atri",
+    "motherTongue": "Tamil",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Partially",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Matched",
+    "agePreferenceMin": 35,
+    "agePreferenceMax": 41,
+    "preferredIncomeRange": {
+      "min": 4100000,
+      "max": 8200000
+    },
+    "notes": [
+      {
+        "id": "1780500952122",
+        "text": "Intake complete. Relocation is possible.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 1
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.85
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Intake complete. Relocation is possible."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "73",
+    "firstName": "Sourav",
+    "lastName": "Dutta",
+    "gender": "Male",
+    "dob": "1990-05-08",
+    "age": 36,
+    "country": "India",
+    "city": "Hyderabad",
+    "height": 176,
+    "email": "sourav.dutta55@gmail.com",
+    "phone": "+91 76591549",
+    "undergraduateCollege": "VIT Vellore",
+    "degree": "B.Tech",
+    "income": 3300000,
+    "currentCompany": "Amazon",
+    "designation": "Tech Lead",
+    "languagesKnown": [
+      "English",
+      "Bengali",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "Maybe",
+    "openToPets": "Maybe",
+    "gotra": "Shandilya",
+    "motherTongue": "Bengali",
+    "dietaryPreference": "eggetarian",
+    "manglikStatus": "Don't Know",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Matched",
+    "agePreferenceMin": 30,
+    "agePreferenceMax": 36,
+    "preferredIncomeRange": {
+      "min": 2300000,
+      "max": 5000000
+    },
+    "notes": [
+      {
+        "id": "1780573806430",
+        "text": "Looking for independent professional.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Looking for independent professional."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "74",
+    "firstName": "Madhura",
+    "lastName": "Patil",
+    "gender": "Female",
+    "dob": "2000-07-14",
+    "age": 26,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 167,
+    "email": "madhura.patil20@gmail.com",
+    "phone": "+91 71474191",
+    "undergraduateCollege": "All India Institute of Medical Sciences (AIIMS)",
+    "degree": "M.B.B.S.",
+    "income": 1400000,
+    "currentCompany": "Max Healthcare",
+    "designation": "Resident Doctor",
+    "languagesKnown": [
+      "English",
+      "Marathi"
+    ],
+    "siblings": 3,
+    "caste": "Kayastha",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "Yes",
+    "openToPets": "Yes",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Marathi",
+    "dietaryPreference": "eggetarian",
+    "manglikStatus": "Yes",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Matched",
+    "agePreferenceMin": 26,
+    "agePreferenceMax": 32,
+    "preferredIncomeRange": {
+      "min": 1400000,
+      "max": 2800000
+    },
+    "notes": [
+      {
+        "id": "1780388360421",
+        "text": "Intake complete. Prefers liberal values.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 1
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.85
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.7
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Intake complete. Prefers liberal values."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "75",
+    "firstName": "Swapnil",
+    "lastName": "Shinde",
+    "gender": "Male",
+    "dob": "2003-06-23",
+    "age": 23,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 173,
+    "email": "swapnil.shinde71@gmail.com",
+    "phone": "+91 95116498",
+    "undergraduateCollege": "IIT Bombay",
+    "degree": "B.Tech",
+    "income": 1200000,
+    "currentCompany": "Google",
+    "designation": "Software Engineer",
+    "languagesKnown": [
+      "English",
+      "Marathi"
+    ],
+    "siblings": 0,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "Maybe",
+    "openToRelocate": "Yes",
+    "openToPets": "Yes",
+    "gotra": "Gautam",
+    "motherTongue": "Marathi",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Don't Know",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Matched",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 23,
+    "preferredIncomeRange": {
+      "min": 800000,
+      "max": 1800000
+    },
+    "notes": [
+      {
+        "id": "1780078784083",
+        "text": "Horoscope matching is preferred.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.85
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Horoscope matching is preferred."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "76",
+    "firstName": "Sneha",
+    "lastName": "D'Souza",
+    "gender": "Female",
+    "dob": "1990-02-08",
+    "age": 36,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 160,
+    "email": "sneha.d'souza72@gmail.com",
+    "phone": "+91 77633236",
+    "undergraduateCollege": "Symbiosis Law School Pune",
+    "degree": "LLB",
+    "income": 5100000,
+    "currentCompany": "Khaitan & Co",
+    "designation": "Partner (Law Firm)",
+    "languagesKnown": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Open/Other",
+    "religion": "Christianity",
+    "wantKids": "Maybe",
+    "openToRelocate": "Yes",
+    "openToPets": "No",
+    "gotra": "N/A",
+    "motherTongue": "Tamil",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Matched",
+    "agePreferenceMin": 36,
+    "agePreferenceMax": 42,
+    "preferredIncomeRange": {
+      "min": 5100000,
+      "max": 10200000
+    },
+    "notes": [
+      {
+        "id": "1780498448114",
+        "text": "Intake done. Prefers post-graduate partner.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 1
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.85
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Intake done. Prefers post-graduate partner."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "77",
+    "firstName": "Amit",
+    "lastName": "Mehta",
+    "gender": "Male",
+    "dob": "2002-01-26",
+    "age": 24,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 171,
+    "email": "amit.mehta31@gmail.com",
+    "phone": "+91 87718941",
+    "undergraduateCollege": "Christ University",
+    "degree": "BBA",
+    "income": 1100000,
+    "currentCompany": "KPMG",
+    "designation": "Business Analyst",
+    "languagesKnown": [
+      "English",
+      "Gujarati",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Vaishya",
+    "religion": "Jainism",
+    "wantKids": "Maybe",
+    "openToRelocate": "No",
+    "openToPets": "Yes",
+    "gotra": "N/A",
+    "motherTongue": "Gujarati",
+    "dietaryPreference": "Jain",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Matched",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 24,
+    "preferredIncomeRange": {
+      "min": 800000,
+      "max": 1700000
+    },
+    "notes": [
+      {
+        "id": "1780732025056",
+        "text": "Looking for someone in IT/Tech sector.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 1
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Looking for someone in IT/Tech sector."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "78",
+    "firstName": "Nisha",
+    "lastName": "Doshi",
+    "gender": "Female",
+    "dob": "1997-03-27",
+    "age": 29,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 166,
+    "email": "nisha.doshi12@gmail.com",
+    "phone": "+91 86813187",
+    "undergraduateCollege": "NALSAR University of Law Hyderabad",
+    "degree": "LLM",
+    "income": 2800000,
+    "currentCompany": "Amarchand Mangaldas",
+    "designation": "Corporate Lawyer",
+    "languagesKnown": [
+      "English",
+      "Gujarati"
+    ],
+    "siblings": 3,
+    "caste": "Vaishya",
+    "religion": "Jainism",
+    "wantKids": "Yes",
+    "openToRelocate": "Maybe",
+    "openToPets": "Maybe",
+    "gotra": "N/A",
+    "motherTongue": "Gujarati",
+    "dietaryPreference": "veg",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Matched",
+    "agePreferenceMin": 29,
+    "agePreferenceMax": 35,
+    "preferredIncomeRange": {
+      "min": 2800000,
+      "max": 5600000
+    },
+    "notes": [
+      {
+        "id": "1780022034546",
+        "text": "Intake done. Values compatibility over gotra.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.85
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.7
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Intake done. Values compatibility over gotra."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "79",
+    "firstName": "Rudra",
+    "lastName": "Gupta",
+    "gender": "Male",
+    "dob": "1997-05-22",
+    "age": 29,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 176,
+    "email": "rudra.gupta25@gmail.com",
+    "phone": "+91 99084356",
+    "undergraduateCollege": "NALSAR University of Law Hyderabad",
+    "degree": "LLM",
+    "income": 2900000,
+    "currentCompany": "Tata Motors Legal",
+    "designation": "Corporate Lawyer",
+    "languagesKnown": [
+      "English",
+      "Hindi"
+    ],
+    "siblings": 3,
+    "caste": "Kshatriya",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "No",
+    "openToPets": "Yes",
+    "gotra": "Kashyap",
+    "motherTongue": "Hindi",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "Don't Know",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Matched",
+    "agePreferenceMin": 23,
+    "agePreferenceMax": 29,
+    "preferredIncomeRange": {
+      "min": 2000000,
+      "max": 4400000
+    },
+    "notes": [
+      {
+        "id": "1780210287371",
+        "text": "Intake complete. Open to simple matches.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 1
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.85
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.7
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Intake complete. Open to simple matches."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "80",
+    "firstName": "Anusha",
+    "lastName": "Naidu",
+    "gender": "Female",
+    "dob": "1990-07-12",
+    "age": 36,
+    "country": "India",
+    "city": "Delhi",
+    "height": 152,
+    "email": "anusha.naidu48@gmail.com",
+    "phone": "+91 81227515",
+    "undergraduateCollege": "Symbiosis Law School Pune",
+    "degree": "LLM",
+    "income": 5400000,
+    "currentCompany": "ICICI Bank Legal Dept",
+    "designation": "Partner (Law Firm)",
+    "languagesKnown": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Open/Other",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "Maybe",
+    "openToPets": "Yes",
+    "gotra": "Kashyap",
+    "motherTongue": "Tamil",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Yes",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Matched",
+    "agePreferenceMin": 36,
+    "agePreferenceMax": 42,
+    "preferredIncomeRange": {
+      "min": 5400000,
+      "max": 10800000
+    },
+    "notes": [
+      {
+        "id": "1780449806531",
+        "text": "Looking for a partner with modern outlook.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Looking for a partner with modern outlook."
+    },
+    "maritalStatus": "Widowed",
+    "matchesGenerated": true
+  },
+  {
+    "id": "81",
+    "firstName": "Madhav",
+    "lastName": "Hegde",
+    "gender": "Male",
+    "dob": "2001-07-24",
+    "age": 25,
+    "country": "India",
+    "city": "Pune",
+    "height": 183,
+    "email": "madhav.hegde85@gmail.com",
+    "phone": "+91 92096223",
+    "undergraduateCollege": "VIT Vellore",
+    "degree": "M.Tech",
+    "income": 1500000,
+    "currentCompany": "Adobe",
+    "designation": "Software Engineer",
+    "languagesKnown": [
+      "English",
+      "Telugu"
+    ],
+    "siblings": 2,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "No",
+    "openToPets": "Maybe",
+    "gotra": "Gautam",
+    "motherTongue": "Telugu",
+    "dietaryPreference": "eggetarian",
+    "manglikStatus": "Yes",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Matched",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 25,
+    "preferredIncomeRange": {
+      "min": 1100000,
+      "max": 2300000
+    },
+    "notes": [
+      {
+        "id": "1780586614397",
+        "text": "Intake done. Prefers working professionals.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Intake done. Prefers working professionals."
+    },
+    "maritalStatus": "Divorced",
+    "matchesGenerated": true
+  },
+  {
+    "id": "82",
+    "firstName": "Moumita",
+    "lastName": "Chatterjee",
+    "gender": "Female",
+    "dob": "1992-09-01",
+    "age": 34,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 152,
+    "email": "moumita.chatterjee56@gmail.com",
+    "phone": "+91 91068920",
+    "undergraduateCollege": "FMS Delhi",
+    "degree": "MBA",
+    "income": 3100000,
+    "currentCompany": "Boston Consulting Group",
+    "designation": "Senior Consultant",
+    "languagesKnown": [
+      "English",
+      "Bengali"
+    ],
+    "siblings": 0,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "Maybe",
+    "openToRelocate": "No",
+    "openToPets": "Maybe",
+    "gotra": "Bharadwaj",
+    "motherTongue": "Bengali",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "Yes",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Matched",
+    "agePreferenceMin": 34,
+    "agePreferenceMax": 40,
+    "preferredIncomeRange": {
+      "min": 3100000,
+      "max": 6200000
+    },
+    "notes": [
+      {
+        "id": "1780027077649",
+        "text": "Wants someone from the same city.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Wants someone from the same city."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "83",
+    "firstName": "Raghav",
+    "lastName": "Shetty",
+    "gender": "Male",
+    "dob": "2001-11-11",
+    "age": 25,
+    "country": "India",
+    "city": "Delhi",
+    "height": 173,
+    "email": "raghav.shetty28@gmail.com",
+    "phone": "+91 86252854",
+    "undergraduateCollege": "Armed Forces Medical College (AFMC) Pune",
+    "degree": "M.B.B.S.",
+    "income": 1000000,
+    "currentCompany": "Manipal Hospitals",
+    "designation": "Resident Doctor",
+    "languagesKnown": [
+      "English",
+      "Telugu"
+    ],
+    "siblings": 2,
+    "caste": "Open/Other",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "Yes",
+    "openToPets": "No",
+    "gotra": "Kashyap",
+    "motherTongue": "Telugu",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "Don't Know",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Matched",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 25,
+    "preferredIncomeRange": {
+      "min": 700000,
+      "max": 1500000
+    },
+    "notes": [
+      {
+        "id": "1780572182168",
+        "text": "Horoscope match is a strict requirement.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 1
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.85
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Horoscope match is a strict requirement."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "84",
+    "firstName": "Michelle",
+    "lastName": "Varghese",
+    "gender": "Female",
+    "dob": "2002-07-25",
+    "age": 24,
+    "country": "India",
+    "city": "Delhi",
+    "height": 160,
+    "email": "michelle.varghese78@gmail.com",
+    "phone": "+91 93115427",
+    "undergraduateCollege": "IIM Calcutta",
+    "degree": "PGDM",
+    "income": 1700000,
+    "currentCompany": "HDFC Bank",
+    "designation": "Business Analyst",
+    "languagesKnown": [
+      "English",
+      "Malayalam",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Open/Other",
+    "religion": "Christianity",
+    "wantKids": "Maybe",
+    "openToRelocate": "No",
+    "openToPets": "Maybe",
+    "gotra": "N/A",
+    "motherTongue": "Malayalam",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Matched",
+    "agePreferenceMin": 24,
+    "agePreferenceMax": 30,
+    "preferredIncomeRange": {
+      "min": 1700000,
+      "max": 3400000
+    },
+    "notes": [
+      {
+        "id": "1780321668705",
+        "text": "Open to relocate within India.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.85
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.7
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Open to relocate within India."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "85",
+    "firstName": "Niladri",
+    "lastName": "Sen",
+    "gender": "Male",
+    "dob": "1998-03-11",
+    "age": 28,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 173,
+    "email": "niladri.sen12@gmail.com",
+    "phone": "+91 75095547",
+    "undergraduateCollege": "National Law School of India University (NLSIU) Bangalore",
+    "degree": "LLM",
+    "income": 3400000,
+    "currentCompany": "Tata Motors Legal",
+    "designation": "Corporate Lawyer",
+    "languagesKnown": [
+      "English",
+      "Bengali",
+      "Hindi"
+    ],
+    "siblings": 1,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "Maybe",
+    "openToPets": "Yes",
+    "gotra": "Shandilya",
+    "motherTongue": "Bengali",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Yes",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Matched",
+    "agePreferenceMin": 22,
+    "agePreferenceMax": 28,
+    "preferredIncomeRange": {
+      "min": 2400000,
+      "max": 5100000
+    },
+    "notes": [
+      {
+        "id": "1780817876692",
+        "text": "Prefers a nuclear family setup.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.85
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Prefers a nuclear family setup."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "86",
+    "firstName": "Meher",
+    "lastName": "Kaur",
+    "gender": "Female",
+    "dob": "1995-06-26",
+    "age": 31,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 164,
+    "email": "meher.kaur86@gmail.com",
+    "phone": "+91 99545406",
+    "undergraduateCollege": "IIM Ahmedabad",
+    "degree": "MBA",
+    "income": 1900000,
+    "currentCompany": "McKinsey & Co",
+    "designation": "Management Consultant",
+    "languagesKnown": [
+      "English",
+      "Punjabi"
+    ],
+    "siblings": 3,
+    "caste": "Open/Other",
+    "religion": "Sikhism",
+    "wantKids": "Maybe",
+    "openToRelocate": "Maybe",
+    "openToPets": "Maybe",
+    "gotra": "N/A",
+    "motherTongue": "Punjabi",
+    "dietaryPreference": "veg",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Closed",
+    "agePreferenceMin": 31,
+    "agePreferenceMax": 37,
+    "preferredIncomeRange": {
+      "min": 1900000,
+      "max": 3800000
+    },
+    "notes": [
+      {
+        "id": "1780821486857",
+        "text": "Looking for a well-educated partner.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.7
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Looking for a well-educated partner."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "87",
+    "firstName": "Srinivas",
+    "lastName": "Subramanian",
+    "gender": "Male",
+    "dob": "1995-03-02",
+    "age": 31,
+    "country": "India",
+    "city": "Hyderabad",
+    "height": 169,
+    "email": "srinivas.subramanian98@gmail.com",
+    "phone": "+91 77586860",
+    "undergraduateCollege": "BITS Pilani",
+    "degree": "B.Tech",
+    "income": 2600000,
+    "currentCompany": "Infosys",
+    "designation": "Business Analyst",
+    "languagesKnown": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "siblings": 3,
+    "caste": "Kshatriya",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "No",
+    "openToPets": "No",
+    "gotra": "Gautam",
+    "motherTongue": "Tamil",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "Partially",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Closed",
+    "agePreferenceMin": 25,
+    "agePreferenceMax": 31,
+    "preferredIncomeRange": {
+      "min": 1800000,
+      "max": 3900000
+    },
+    "notes": [
+      {
+        "id": "1780594549948",
+        "text": "Intake complete. Family-oriented values.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.7
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Intake complete. Family-oriented values."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "88",
+    "firstName": "Swathy",
+    "lastName": "Hegde",
+    "gender": "Female",
+    "dob": "1999-05-13",
+    "age": 27,
+    "country": "India",
+    "city": "Delhi",
+    "height": 162,
+    "email": "swathy.hegde42@gmail.com",
+    "phone": "+91 78631119",
+    "undergraduateCollege": "FMS Delhi",
+    "degree": "MBA",
+    "income": 2500000,
+    "currentCompany": "Reliance Industries",
+    "designation": "Marketing Manager",
+    "languagesKnown": [
+      "English",
+      "Kannada",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Kshatriya",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "Yes",
+    "openToPets": "No",
+    "gotra": "Kashyap",
+    "motherTongue": "Kannada",
+    "dietaryPreference": "eggetarian",
+    "manglikStatus": "Partially",
+    "familyType": "nuclear",
+    "familyValues": "moderate",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Closed",
+    "agePreferenceMin": 27,
+    "agePreferenceMax": 33,
+    "preferredIncomeRange": {
+      "min": 2500000,
+      "max": 5000000
+    },
+    "notes": [
+      {
+        "id": "1780230673540",
+        "text": "Prefers vegetarian partner.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 1
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.85
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Prefers vegetarian partner."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "89",
+    "firstName": "Samir",
+    "lastName": "Qureshi",
+    "gender": "Male",
+    "dob": "2000-07-24",
+    "age": 26,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 186,
+    "email": "samir.qureshi87@gmail.com",
+    "phone": "+91 78973137",
+    "undergraduateCollege": "IIM Ahmedabad",
+    "degree": "B.Com",
+    "income": 1700000,
+    "currentCompany": "McKinsey & Co",
+    "designation": "Business Analyst",
+    "languagesKnown": [
+      "English",
+      "Urdu"
+    ],
+    "siblings": 1,
+    "caste": "Open/Other",
+    "religion": "Islam",
+    "wantKids": "Maybe",
+    "openToRelocate": "Yes",
+    "openToPets": "Maybe",
+    "gotra": "N/A",
+    "motherTongue": "Urdu",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Closed",
+    "agePreferenceMin": 21,
+    "agePreferenceMax": 26,
+    "preferredIncomeRange": {
+      "min": 1200000,
+      "max": 2600000
+    },
+    "notes": [
+      {
+        "id": "1779984237044",
+        "text": "Looking for progressive mindset.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Looking for progressive mindset."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "90",
+    "firstName": "Anjali",
+    "lastName": "Kurian",
+    "gender": "Female",
+    "dob": "1991-12-13",
+    "age": 35,
+    "country": "India",
+    "city": "Delhi",
+    "height": 173,
+    "email": "anjali.kurian55@gmail.com",
+    "phone": "+91 82645527",
+    "undergraduateCollege": "IIM Ahmedabad",
+    "degree": "PGDM",
+    "income": 3600000,
+    "currentCompany": "PwC",
+    "designation": "HR Manager",
+    "languagesKnown": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "siblings": 1,
+    "caste": "Open/Other",
+    "religion": "Christianity",
+    "wantKids": "Maybe",
+    "openToRelocate": "Maybe",
+    "openToPets": "Yes",
+    "gotra": "N/A",
+    "motherTongue": "Tamil",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Closed",
+    "agePreferenceMin": 35,
+    "agePreferenceMax": 41,
+    "preferredIncomeRange": {
+      "min": 3600000,
+      "max": 7200000
+    },
+    "notes": [
+      {
+        "id": "1780716065928",
+        "text": "Intake done. Needs pets-friendly match.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.85
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Intake done. Needs pets-friendly match."
+    },
+    "maritalStatus": "Widowed",
+    "matchesGenerated": true
+  },
+  {
+    "id": "91",
+    "firstName": "Feroz",
+    "lastName": "Siddiqui",
+    "gender": "Male",
+    "dob": "1991-07-15",
+    "age": 35,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 180,
+    "email": "feroz.siddiqui30@gmail.com",
+    "phone": "+91 92195567",
+    "undergraduateCollege": "Armed Forces Medical College (AFMC) Pune",
+    "degree": "M.S.",
+    "income": 4500000,
+    "currentCompany": "Max Healthcare",
+    "designation": "Specialist Medical Practitioner",
+    "languagesKnown": [
+      "English",
+      "Urdu"
+    ],
+    "siblings": 1,
+    "caste": "Open/Other",
+    "religion": "Islam",
+    "wantKids": "Yes",
+    "openToRelocate": "No",
+    "openToPets": "No",
+    "gotra": "N/A",
+    "motherTongue": "Urdu",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "traditional",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Closed",
+    "agePreferenceMin": 29,
+    "agePreferenceMax": 35,
+    "preferredIncomeRange": {
+      "min": 3200000,
+      "max": 6800000
+    },
+    "notes": [
+      {
+        "id": "1780553310161",
+        "text": "Prefers a partner with similar age.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Prefers a partner with similar age."
+    },
+    "maritalStatus": "Divorced",
+    "matchesGenerated": true
+  },
+  {
+    "id": "92",
+    "firstName": "Payal",
+    "lastName": "Patel",
+    "gender": "Female",
+    "dob": "1991-08-09",
+    "age": 35,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 163,
+    "email": "payal.patel69@gmail.com",
+    "phone": "+91 81287972",
+    "undergraduateCollege": "Government Law College Mumbai",
+    "degree": "LLB",
+    "income": 3800000,
+    "currentCompany": "AZB & Partners",
+    "designation": "Partner (Law Firm)",
+    "languagesKnown": [
+      "English",
+      "Gujarati",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Open/Other",
+    "religion": "Jainism",
+    "wantKids": "Maybe",
+    "openToRelocate": "No",
+    "openToPets": "No",
+    "gotra": "N/A",
+    "motherTongue": "Gujarati",
+    "dietaryPreference": "Jain",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Closed",
+    "agePreferenceMin": 35,
+    "agePreferenceMax": 41,
+    "preferredIncomeRange": {
+      "min": 3800000,
+      "max": 7600000
+    },
+    "notes": [
+      {
+        "id": "1780160541880",
+        "text": "Intake complete. Relocation is possible.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 1
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.85
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.7
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Intake complete. Relocation is possible."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "93",
+    "firstName": "Vikram",
+    "lastName": "Patil",
+    "gender": "Male",
+    "dob": "1992-03-08",
+    "age": 34,
+    "country": "India",
+    "city": "Delhi",
+    "height": 182,
+    "email": "vikram.patil98@gmail.com",
+    "phone": "+91 89284607",
+    "undergraduateCollege": "Symbiosis Law School Pune",
+    "degree": "LLM",
+    "income": 6500000,
+    "currentCompany": "Amarchand Mangaldas",
+    "designation": "Partner (Law Firm)",
+    "languagesKnown": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "siblings": 3,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "Yes",
+    "openToRelocate": "Maybe",
+    "openToPets": "Maybe",
+    "gotra": "Kashyap",
+    "motherTongue": "Marathi",
+    "dietaryPreference": "veg",
+    "manglikStatus": "Yes",
+    "familyType": "joint",
+    "familyValues": "moderate",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Closed",
+    "agePreferenceMin": 28,
+    "agePreferenceMax": 34,
+    "preferredIncomeRange": {
+      "min": 4600000,
+      "max": 9800000
+    },
+    "notes": [
+      {
+        "id": "1780221462416",
+        "text": "Looking for independent professional.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 1
+        },
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Looking for independent professional."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "94",
+    "firstName": "Aliyah",
+    "lastName": "Khan",
+    "gender": "Female",
+    "dob": "1996-09-09",
+    "age": 30,
+    "country": "India",
+    "city": "Bangalore",
+    "height": 161,
+    "email": "aliyah.khan20@gmail.com",
+    "phone": "+91 92811819",
+    "undergraduateCollege": "BITS Pilani",
+    "degree": "B.E.",
+    "income": 2200000,
+    "currentCompany": "Swiggy",
+    "designation": "Data Scientist",
+    "languagesKnown": [
+      "English",
+      "Urdu",
+      "Hindi"
+    ],
+    "siblings": 3,
+    "caste": "Open/Other",
+    "religion": "Islam",
+    "wantKids": "Yes",
+    "openToRelocate": "Yes",
+    "openToPets": "No",
+    "gotra": "N/A",
+    "motherTongue": "Urdu",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Closed",
+    "agePreferenceMin": 30,
+    "agePreferenceMax": 36,
+    "preferredIncomeRange": {
+      "min": 2200000,
+      "max": 4400000
+    },
+    "notes": [
+      {
+        "id": "1780572918703",
+        "text": "Intake complete. Prefers liberal values.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Intake complete. Prefers liberal values."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "95",
+    "firstName": "Karthik",
+    "lastName": "Iyer",
+    "gender": "Male",
+    "dob": "1998-12-20",
+    "age": 28,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 184,
+    "email": "karthik.iyer31@gmail.com",
+    "phone": "+91 99367498",
+    "undergraduateCollege": "NALSAR University of Law Hyderabad",
+    "degree": "LLM",
+    "income": 3100000,
+    "currentCompany": "Amarchand Mangaldas",
+    "designation": "Corporate Lawyer",
+    "languagesKnown": [
+      "English",
+      "Telugu",
+      "Hindi"
+    ],
+    "siblings": 3,
+    "caste": "Open/Other",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "Maybe",
+    "openToPets": "Yes",
+    "gotra": "Gautam",
+    "motherTongue": "Telugu",
+    "dietaryPreference": "eggetarian",
+    "manglikStatus": "Don't Know",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Closed",
+    "agePreferenceMin": 22,
+    "agePreferenceMax": 28,
+    "preferredIncomeRange": {
+      "min": 2200000,
+      "max": 4700000
+    },
+    "notes": [
+      {
+        "id": "1780439219379",
+        "text": "Horoscope matching is preferred.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 1
+        },
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 0.85
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.7
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Horoscope matching is preferred."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "96",
+    "firstName": "Falguni",
+    "lastName": "Vora",
+    "gender": "Female",
+    "dob": "1998-12-14",
+    "age": 28,
+    "country": "India",
+    "city": "Delhi",
+    "height": 169,
+    "email": "falguni.vora98@gmail.com",
+    "phone": "+91 77239008",
+    "undergraduateCollege": "Government Law College Mumbai",
+    "degree": "LLM",
+    "income": 1900000,
+    "currentCompany": "ICICI Bank Legal Dept",
+    "designation": "Corporate Lawyer",
+    "languagesKnown": [
+      "English",
+      "Gujarati",
+      "Hindi"
+    ],
+    "siblings": 2,
+    "caste": "Vaishya",
+    "religion": "Jainism",
+    "wantKids": "No",
+    "openToRelocate": "No",
+    "openToPets": "No",
+    "gotra": "N/A",
+    "motherTongue": "Gujarati",
+    "dietaryPreference": "veg",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "moderate",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Closed",
+    "agePreferenceMin": 28,
+    "agePreferenceMax": 34,
+    "preferredIncomeRange": {
+      "min": 1900000,
+      "max": 3800000
+    },
+    "notes": [
+      {
+        "id": "1779914841652",
+        "text": "Intake done. Prefers post-graduate partner.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "caste",
+          "label": "Caste compatibility",
+          "weight": 1
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.85
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.7
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Intake done. Prefers post-graduate partner."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "97",
+    "firstName": "Aditya",
+    "lastName": "Bhonsle",
+    "gender": "Male",
+    "dob": "1990-02-14",
+    "age": 36,
+    "country": "India",
+    "city": "Pune",
+    "height": 182,
+    "email": "aditya.bhonsle58@gmail.com",
+    "phone": "+91 86728024",
+    "undergraduateCollege": "Anna University",
+    "degree": "M.Tech",
+    "income": 3700000,
+    "currentCompany": "TCS",
+    "designation": "Product Manager",
+    "languagesKnown": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "siblings": 1,
+    "caste": "Maratha",
+    "religion": "Hinduism",
+    "wantKids": "Maybe",
+    "openToRelocate": "No",
+    "openToPets": "Maybe",
+    "gotra": "Atri",
+    "motherTongue": "Marathi",
+    "dietaryPreference": "eggetarian",
+    "manglikStatus": "Partially",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Closed",
+    "agePreferenceMin": 30,
+    "agePreferenceMax": 36,
+    "preferredIncomeRange": {
+      "min": 2600000,
+      "max": 5600000
+    },
+    "notes": [
+      {
+        "id": "1780390074706",
+        "text": "Looking for someone in IT/Tech sector.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 1
+        },
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 0.85
+        },
+        {
+          "key": "dietaryPreference",
+          "label": "Dietary preference",
+          "weight": 0.7
+        },
+        {
+          "key": "location",
+          "label": "Location / city",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Looking for someone in IT/Tech sector."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "98",
+    "firstName": "Manpreet",
+    "lastName": "Kaur",
+    "gender": "Female",
+    "dob": "1997-08-12",
+    "age": 29,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 156,
+    "email": "manpreet.kaur78@gmail.com",
+    "phone": "+91 75084889",
+    "undergraduateCollege": "VIT Vellore",
+    "degree": "M.Tech",
+    "income": 2900000,
+    "currentCompany": "Microsoft",
+    "designation": "Business Analyst",
+    "languagesKnown": [
+      "English",
+      "Punjabi"
+    ],
+    "siblings": 2,
+    "caste": "Open/Other",
+    "religion": "Sikhism",
+    "wantKids": "Yes",
+    "openToRelocate": "Yes",
+    "openToPets": "Yes",
+    "gotra": "N/A",
+    "motherTongue": "Punjabi",
+    "dietaryPreference": "veg",
+    "manglikStatus": "N/A",
+    "familyType": "joint",
+    "familyValues": "liberal",
+    "complexion": "Wheatish",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Closed",
+    "agePreferenceMin": 29,
+    "agePreferenceMax": 35,
+    "preferredIncomeRange": {
+      "min": 2900000,
+      "max": 5800000
+    },
+    "notes": [
+      {
+        "id": "1780183571048",
+        "text": "Intake done. Values compatibility over gotra.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 1
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.85
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.7
+        }
+      ],
+      "notes": "Intake done. Values compatibility over gotra."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "99",
+    "firstName": "Aryan",
+    "lastName": "Syed",
+    "gender": "Male",
+    "dob": "1992-03-28",
+    "age": 34,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 190,
+    "email": "aryan.syed69@gmail.com",
+    "phone": "+91 94055216",
+    "undergraduateCollege": "IIM Calcutta",
+    "degree": "MBA",
+    "income": 4200000,
+    "currentCompany": "HDFC Bank",
+    "designation": "Senior Consultant",
+    "languagesKnown": [
+      "English",
+      "Urdu"
+    ],
+    "siblings": 0,
+    "caste": "Open/Other",
+    "religion": "Islam",
+    "wantKids": "Maybe",
+    "openToRelocate": "No",
+    "openToPets": "Maybe",
+    "gotra": "N/A",
+    "motherTongue": "Urdu",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "N/A",
+    "familyType": "nuclear",
+    "familyValues": "traditional",
+    "complexion": "Fair",
+    "horoscopeMatchPreference": "No",
+    "statusTag": "Closed",
+    "agePreferenceMin": 28,
+    "agePreferenceMax": 34,
+    "preferredIncomeRange": {
+      "min": 2900000,
+      "max": 6300000
+    },
+    "notes": [
+      {
+        "id": "1780216606052",
+        "text": "Intake complete. Open to simple matches.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "motherTongue",
+          "label": "Mother tongue",
+          "weight": 1
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.85
+        }
+      ],
+      "notes": "Intake complete. Open to simple matches."
+    },
+    "maritalStatus": "Single",
+    "matchesGenerated": true
+  },
+  {
+    "id": "100",
+    "firstName": "Anusha",
+    "lastName": "Sastry",
+    "gender": "Female",
+    "dob": "1994-05-09",
+    "age": 32,
+    "country": "India",
+    "city": "Mumbai",
+    "height": 170,
+    "email": "anusha.sastry98@gmail.com",
+    "phone": "+91 78526251",
+    "undergraduateCollege": "IIT Delhi",
+    "degree": "MCA",
+    "income": 5300000,
+    "currentCompany": "Infosys",
+    "designation": "Product Manager",
+    "languagesKnown": [
+      "English",
+      "Kannada",
+      "Hindi"
+    ],
+    "siblings": 0,
+    "caste": "Brahmin",
+    "religion": "Hinduism",
+    "wantKids": "No",
+    "openToRelocate": "No",
+    "openToPets": "Yes",
+    "gotra": "Atri",
+    "motherTongue": "Kannada",
+    "dietaryPreference": "non-veg",
+    "manglikStatus": "Yes",
+    "familyType": "nuclear",
+    "familyValues": "liberal",
+    "complexion": "Dusky",
+    "horoscopeMatchPreference": "Yes",
+    "statusTag": "Closed",
+    "agePreferenceMin": 32,
+    "agePreferenceMax": 38,
+    "preferredIncomeRange": {
+      "min": 5300000,
+      "max": 10600000
+    },
+    "notes": [
+      {
+        "id": "1779955614903",
+        "text": "Looking for a partner with modern outlook.",
+        "date": "07 Jun 2026"
+      }
+    ],
+    "partnerPriorities": {
+      "ranked": [
+        {
+          "key": "education",
+          "label": "Education level",
+          "weight": 1
+        },
+        {
+          "key": "horoscope",
+          "label": "Horoscope match",
+          "weight": 0.85
+        },
+        {
+          "key": "salary",
+          "label": "Salary / income bracket",
+          "weight": 0.7
+        },
+        {
+          "key": "familyValues",
+          "label": "Family values",
+          "weight": 0.55
+        }
+      ],
+      "notes": "Looking for a partner with modern outlook."
+    },
+    "maritalStatus": "Widowed",
+    "matchesGenerated": true
+  }
+]
