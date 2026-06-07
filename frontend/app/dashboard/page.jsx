@@ -111,7 +111,7 @@ export default function DashboardPage() {
               value={filters.gender}
               onChange={(e) => setFilters(prev => ({ ...prev, gender: e.target.value }))}
             >
-              <option value="">All Genders</option>
+              <option value="">Gender</option>
               <option value="Male">Male</option>
               <option value="Female">Female</option>
             </select>
@@ -121,7 +121,7 @@ export default function DashboardPage() {
               value={filters.religion}
               onChange={(e) => setFilters(prev => ({ ...prev, religion: e.target.value }))}
             >
-              <option value="">All Religions</option>
+              <option value="">Religion</option>
               {uniqueReligions.map(r => (
                 <option key={r} value={r}>{r}</option>
               ))}
@@ -142,7 +142,8 @@ export default function DashboardPage() {
             {/* View Mode Toggle Switch */}
             {mounted ? (
               <div style={{ display: 'flex', border: '1px solid var(--border-light)', borderRadius: '10px', overflow: 'hidden', background: 'var(--bg-white)' }}>
-                <button
+                // Table view is currently disabled as part of the MVP scope, but can be easily re-enabled by uncommenting the button below and ensuring the corresponding CSS styles are in place
+                {/* <button
                   onClick={() => handleViewModeChange('list')}
                   style={{
                     padding: '10px 16px',
@@ -156,7 +157,7 @@ export default function DashboardPage() {
                   }}
                 >
                   Table View
-                </button>
+                </button> */}
                 <button
                   onClick={() => handleViewModeChange('grid')}
                   style={{
