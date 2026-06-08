@@ -9,6 +9,27 @@ An internal matchmaking workspace and customer book manager designed for **The D
 
 ---
 
+## ✨ Core Features
+
+*   **🔒 Secure Staff Login**: Dedicated login gateway matching credentials against staff profiles, featuring form submission with Enter key handlers.
+*   **📊 KPI Counters**: Real-time summary statistics tracking *Total Portfolio*, *New Inflow*, *Active Search*, *Matched Clients*, and *Closed Profiles* mapped to pipeline stages.
+*   **🔍 Live Unified Filters**: Instantly query clients by name or filter down the list by *Gender*, dynamic *Religion* options, or *Pipeline Stage* with memoized data calculations.
+*   **🎨 Multi-View Portfolio Board**:
+    *   **Table View**: Structured columns listing city, status, and a dynamic **Profile Completeness Bar** color-coding data richness.
+    *   **Card Grid View**: 4-column layout with gender-coded initials avatars, designation tags, diet/religion chips, and truncated notes preview.
+    *   **Kanban Board**: Drag-visual stages columns tracking client lifecycle flow.
+*   **💼 Client Detail Workspace**:
+    *   **CRM Control Accordions**: Quickly toggle the client's search status (Pause/Resume) or close/reopen accounts.
+    *   **Accordion Biodata Panels**: Collapsible partitions for Personal Details, Career, Religious specs, Lifestyle preferences, and Matchmaker priorities.
+    *   **Meeting Notes Timeline**: Write and append meeting notes dynamically, saved and persisted inside the database.
+*   **❤️ Algorithmic Matchmaker (Suggested Matches)**:
+    *   **Matrimonial Engine**: Filters opposite-gender pools and calculates alignment across 9 cultural factors (Caste, Language, Proximity, Horoscope, etc.) weighted by client priorities.
+    *   **Empty State empty guide**: Animated heart SVG placeholder displaying a "Find Matches" trigger.
+    *   **Matches Breakdown & Badge Rankings**: High Potential, Good Fit, and Maybe badge categorizations with dynamic alignment tags and complete category-by-category score accordions.
+    *   **Propose Matches Email Overlay**: Instantly generate professional emails containing matching compatibility specifications and proposal details.
+
+---
+
 ## 🚀 Quick Start & Installation
 
 ### Step 1: Install Dependencies
